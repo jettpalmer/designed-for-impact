@@ -9,7 +9,7 @@ website:
     foreground: "#22223b"
     left:
       - href: index.qmd
-      - text: " "
+      - text: "Home"
       
 format:
   html:
