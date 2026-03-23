@@ -7,9 +7,9 @@ website:
   navbar:
     background: "#f2e9e4"
     foreground: "#22223b"
-    left:
-      - href: index.qmd
-      - text: "Home"
+    left: []
+      # - href: index.qmd
+      # - text: "Home"
       
 format:
   html:

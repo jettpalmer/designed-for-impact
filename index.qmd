@@ -1,6 +1,7 @@
 ---
 title: "Designed for Impact"
 subtitle: "A Collaborative Scaffolding Tool For Translating Evidence Into Action"
+pagetitle: ""
 ---
 
 ## Welcome
