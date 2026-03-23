@@ -35,7 +35,7 @@ This tool helps bridge the gap between **analysis** and **action**.
 
 ## The Tool
 
-The **Data Impact Tool (DIT)** is a one-page framework designed to support:
+The **Designed for Impact Tool (DIT)** is a one-page framework designed to support:
 
 -   **Impact Planning (before and during a project)**
 -   **Impact Evaluation (at project completion)**
