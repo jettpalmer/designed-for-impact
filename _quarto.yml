@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "designed-for-impact"
+  title: "Designed For Impact"
   navbar:
+    background: "#f2e9e4"
+    foreground: "#22223b"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    linkcolor: "#4a4e69"
 
 editor: visual
-

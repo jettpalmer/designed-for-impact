@@ -1,1 +1,143 @@
 /* css styles */
+
+/* Color palette */
+:root {
+  --cream: #f2e9e4;
+  --rose-taupe: #c9ada7;
+  --slate: #4a4e69;
+  --navy: #22223b;
+  --mauve-gray: #9a8c98;
+  --text-main: #222222;
+  --text-muted: #555555;
+  --border-soft: #d8d0cb;
+}
+
+/* Base text */
+body {
+  color: var(--text-main);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--navy);
+}
+
+/* Links */
+a {
+  color: var(--slate);
+}
+
+a:hover,
+a:focus {
+  color: var(--navy);
+}
+
+/* Navbar polish */
+.navbar {
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.navbar-title,
+.navbar-nav .nav-link {
+  color: var(--navy) !important;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus,
+.navbar-nav .nav-link.active {
+  color: var(--slate) !important;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--slate);
+  border-color: var(--slate);
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: var(--navy);
+  border-color: var(--navy);
+}
+
+.btn-secondary {
+  background-color: var(--mauve-gray);
+  border-color: var(--mauve-gray);
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus,
+.btn-secondary:active {
+  background-color: var(--slate);
+  border-color: var(--slate);
+}
+
+/* Selection highlight */
+::selection {
+  background: var(--rose-taupe);
+  color: var(--navy);
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--rose-taupe);
+  padding-left: 1rem;
+  color: var(--text-muted);
+}
+
+/* Code */
+code {
+  color: var(--slate);
+}
+
+pre {
+  border: 1px solid var(--border-soft);
+  border-radius: 6px;
+}
+
+/* Tables */
+table {
+  border-color: var(--border-soft);
+}
+
+thead {
+  color: var(--navy);
+}
+
+/* Callouts */
+.callout {
+  border-left: 5px solid var(--mauve-gray);
+}
+
+.callout-note {
+  border-left-color: var(--slate);
+}
+
+.callout-tip {
+  border-left-color: var(--rose-taupe);
+}
+
+.callout-important,
+.callout-warning {
+  border-left-color: var(--navy);
+}
+
+/* Cards / content boxes if used */
+.card,
+.quarto-grid-item {
+  border: 1px solid var(--border-soft);
+}
+
+/* Horizontal rules */
+hr {
+  border-color: var(--border-soft);
+}
+
+/* Optional: soft section backgrounds */
+.section-soft {
+  background-color: var(--cream);
+  border: 1px solid var(--border-soft);
+  border-radius: 8px;
+  padding: 1rem;
+}

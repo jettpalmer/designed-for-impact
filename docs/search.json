@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "designed-for-impact",
+    "title": "Designed for Impact",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Statistical consulting is not just about producing correct analyses — It’s about creating meaningful, real-world impact.\nThis project introduces a structured workflow and tool to help statisticians and data scientists:\n\nAlign with stakeholders early in a project\nTranslate analysis into an impact narrative\nClearly communicate the impact of their work"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,54 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Designed for Impact",
+    "section": "",
+    "text": "Statistical consulting is not just about producing correct analyses — It’s about creating meaningful, real-world impact.\nThis project introduces a structured workflow and tool to help statisticians and data scientists:\n\nAlign with stakeholders early in a project\nTranslate analysis into an impact narrative\nClearly communicate the impact of their work"
+  },
+  {
+    "objectID": "index.html#why-this-matters",
+    "href": "index.html#why-this-matters",
+    "title": "Designed for Impact",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nAs data science becomes increasingly automated, the value of a statistician is shifting.\nIt’s no longer just about:\n\nRunning models\nInterpreting results\n\nIt’s about:\n\nAsking the right questions\nGuiding stakeholder decisions\nDelivering impact that matters\n\nThis tool helps bridge the gap between analysis and action."
+  },
+  {
+    "objectID": "index.html#the-tool",
+    "href": "index.html#the-tool",
+    "title": "Designed for Impact",
+    "section": "The Tool",
+    "text": "The Tool\nThe Data Impact Tool (DIT) is a one-page framework designed to support:\n\nImpact Planning (before and during a project)\nImpact Evaluation (at project completion)\nClear communication with collaborators\n\nIt helps teams define:\n\nA vision (the broader impact)\n\nA impact (what the analysis enables)\n\nA partnership (how collaboration creates value)\n\nA result statement (a concise summary of impact)"
+  },
+  {
+    "objectID": "index.html#download-the-tool",
+    "href": "index.html#download-the-tool",
+    "title": "Designed for Impact",
+    "section": "Download the Tool",
+    "text": "Download the Tool\n\n📄 PDF Version\n\nDownload Blank Template (PDF)\nDownload How-To Guide (PDF)\n\n\n\n🌐 Online Version\n\nOpen Blank Template (Google Docs)\nOpen How-To Guide (Google Docs)\n\n\nTip: Make a copy of the Google Doc to use it for your own projects."
+  },
+  {
+    "objectID": "index.html#how-to-use-it",
+    "href": "index.html#how-to-use-it",
+    "title": "Designed for Impact",
+    "section": "How to Use It",
+    "text": "How to Use It\nThe tool is designed to be used across the project lifecycle:\n\nBefore analysis (Q1)\nAlign on goals, context, and intended impact\nDuring analysis (Q2)\nKeep work grounded in stakeholder priorities\nAfter analysis (Q3)\nTranslate results into action and articulate impact\n\nYou can use it:\n\nWith collaborators (as a shared planning document)\nAs a teaching tool in statistics and data science courses or with junior consultants"
+  },
+  {
+    "objectID": "index.html#about-this-project",
+    "href": "index.html#about-this-project",
+    "title": "Designed for Impact",
+    "section": "About This Project",
+    "text": "About This Project\nThis website accompanies a master’s thesis focused on improving statistical collaboration and impact.\nThe project:\n\nExtends the QQQ and ASCCR frameworks\nIntroduces structured impact planning conversations\nDevelops and evaluates a practical consulting tool\n\nFuture pages will include:\n\nExpanded discussion prompts\nIndustry-specific adaptations\nExample use cases"
+  },
+  {
+    "objectID": "index.html#get-involved",
+    "href": "index.html#get-involved",
+    "title": "Designed for Impact",
+    "section": "Get Involved",
+    "text": "Get Involved\nIf you are:\n\nA statistician\nA data scientist\nA consultant\nA researcher working with collaborators\n\nI’d love your feedback.\nFeel free to reach out or use the tool in your own work."
   }
 ]

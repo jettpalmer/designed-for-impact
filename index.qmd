@@ -1,11 +1,117 @@
 ---
-title: "designed-for-impact"
+title: "Designed for Impact"
+subtitle: "A Collaborative Scaffolding Tool For Translating Evidence Into Action"
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Statistical consulting is not just about producing correct analyses — It’s about creating **meaningful, real-world impact**.
 
-```{r}
-1 + 1
-```
+This project introduces a structured workflow and tool to help statisticians and data scientists:
+
+-   Align with stakeholders early in a project
+-   Translate analysis into an impact narrative
+-   Clearly communicate the impact of their work
+
+## Why This Matters
+
+As data science becomes increasingly automated, the value of a statistician is shifting.
+
+It’s no longer just about:
+
+-   Running models
+-   Interpreting results
+
+It’s about:
+
+-   Asking the right questions
+-   Guiding stakeholder decisions
+-   Delivering impact that matters
+
+This tool helps bridge the gap between **analysis** and **action**.
+
+------------------------------------------------------------------------
+
+## The Tool
+
+The **Data Impact Tool (DIT)** is a one-page framework designed to support:
+
+-   **Impact Planning (before and during a project)**
+-   **Impact Evaluation (at project completion)**
+-   **Clear communication with collaborators**
+
+It helps teams define:
+
+-   A **vision** (the broader impact)\
+-   A **impact** (what the analysis enables)\
+-   A **partnership** (how collaboration creates value)\
+-   A **result statement** (a concise summary of impact)
+
+------------------------------------------------------------------------
+
+## Download the Tool
+
+### 📄 PDF Version
+
+-   [Download Blank Template (PDF)](link-to-pdf-template)
+-   [Download How-To Guide (PDF)](link-to-pdf-guide)
+
+### 🌐 Online Version
+
+-   [Open Blank Template (Google Docs)](link-to-google-doc-template)
+-   [Open How-To Guide (Google Docs)](link-to-google-doc-guide)
+
+> Tip: Make a copy of the Google Doc to use it for your own projects.
+
+------------------------------------------------------------------------
+
+## How to Use It
+
+The tool is designed to be used across the project lifecycle:
+
+1.  **Before analysis (Q1)**\
+    Align on goals, context, and intended impact
+
+2.  **During analysis (Q2)**\
+    Keep work grounded in stakeholder priorities
+
+3.  **After analysis (Q3)**\
+    Translate results into action and articulate impact
+
+You can use it:
+
+-   With collaborators (as a shared planning document)
+-   As a teaching tool in statistics and data science courses or with junior consultants
+
+------------------------------------------------------------------------
+
+## About This Project
+
+This website accompanies a master’s thesis focused on improving **statistical collaboration and impact**.
+
+The project:
+
+-   Extends the QQQ and ASCCR frameworks
+-   Introduces structured impact planning conversations
+-   Develops and evaluates a practical consulting tool
+
+Future pages will include:
+
+-   Expanded discussion prompts
+-   Industry-specific adaptations
+-   Example use cases
+
+------------------------------------------------------------------------
+
+## Get Involved
+
+If you are:
+
+-   A statistician
+-   A data scientist
+-   A consultant
+-   A researcher working with collaborators
+
+I’d love your feedback.
+
+Feel free to [reach out](mailto:jpalme20@calpoly.edu) or use the tool in your own work.
