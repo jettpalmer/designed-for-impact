@@ -12,17 +12,56 @@
   --border-soft: #d8d0cb;
 }
 
+/* =========================
+   Typography & Spacing
+========================= */
+
 /* Base text */
 body {
   color: var(--text-main);
+  line-height: 1.75;
+  font-size: 1.05rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Paragraph spacing */
+p {
+  margin-bottom: 1.25rem;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   color: var(--navy);
+  margin-top: 2.25rem;
+  margin-bottom: 1rem;
+  line-height: 1.3;
 }
 
-/* Links */
+/* First heading tighter to top */
+h1:first-child {
+  margin-top: 0.5rem;
+}
+
+/* Section spacing */
+section {
+  margin-bottom: 2.25rem;
+}
+
+/* Lists spacing */
+ul, ol {
+  margin-bottom: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
+
+/* =========================
+   Links
+========================= */
+
 a {
   color: var(--slate);
 }
@@ -32,9 +71,14 @@ a:focus {
   color: var(--navy);
 }
 
-/* Navbar polish */
+/* =========================
+   Navbar polish
+========================= */
+
 .navbar {
   border-bottom: 1px solid var(--border-soft);
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 }
 
 .navbar-title,
@@ -48,7 +92,18 @@ a:focus {
   color: var(--slate) !important;
 }
 
-/* Buttons */
+/* =========================
+   Buttons
+========================= */
+
+.btn {
+  margin-top: 0.5rem;
+  margin-right: 0.6rem;
+  padding: 0.5rem 0.9rem;
+  border-radius: 6px;
+}
+
+/* Primary */
 .btn-primary {
   background-color: var(--slate);
   border-color: var(--slate);
@@ -61,6 +116,7 @@ a:focus {
   border-color: var(--navy);
 }
 
+/* Secondary */
 .btn-secondary {
   background-color: var(--mauve-gray);
   border-color: var(--mauve-gray);
@@ -73,20 +129,30 @@ a:focus {
   border-color: var(--slate);
 }
 
-/* Selection highlight */
+/* =========================
+   Selection highlight
+========================= */
+
 ::selection {
   background: var(--rose-taupe);
   color: var(--navy);
 }
 
-/* Blockquotes */
+/* =========================
+   Blockquotes
+========================= */
+
 blockquote {
   border-left: 4px solid var(--rose-taupe);
   padding-left: 1rem;
   color: var(--text-muted);
+  margin: 1.5rem 0;
 }
 
-/* Code */
+/* =========================
+   Code
+========================= */
+
 code {
   color: var(--slate);
 }
@@ -94,20 +160,30 @@ code {
 pre {
   border: 1px solid var(--border-soft);
   border-radius: 6px;
+  padding: 0.75rem;
+  margin: 1.5rem 0;
 }
 
-/* Tables */
+/* =========================
+   Tables
+========================= */
+
 table {
   border-color: var(--border-soft);
+  margin: 1.5rem 0;
 }
 
 thead {
   color: var(--navy);
 }
 
-/* Callouts */
+/* =========================
+   Callouts
+========================= */
+
 .callout {
   border-left: 5px solid var(--mauve-gray);
+  margin: 1.5rem 0;
 }
 
 .callout-note {
@@ -123,21 +199,35 @@ thead {
   border-left-color: var(--navy);
 }
 
-/* Cards / content boxes if used */
+/* =========================
+   Cards / content boxes
+========================= */
+
 .card,
 .quarto-grid-item {
   border: 1px solid var(--border-soft);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
 }
 
-/* Horizontal rules */
+/* =========================
+   Horizontal rules
+========================= */
+
 hr {
   border-color: var(--border-soft);
+  margin: 2rem 0;
 }
 
-/* Optional: soft section backgrounds */
+/* =========================
+   Optional: soft sections
+========================= */
+
 .section-soft {
   background-color: var(--cream);
   border: 1px solid var(--border-soft);
   border-radius: 8px;
-  padding: 1rem;
+  padding: 1.25rem;
+  margin-bottom: 1.75rem;
 }
