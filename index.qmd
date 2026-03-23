@@ -1,5 +1,5 @@
 ---
-title: "Designed for Impact"
+title: "Designed For Impact"
 subtitle: "A Collaborative Scaffolding Tool For Translating Evidence Into Action"
 pagetitle: ""
 ---
@@ -64,7 +64,7 @@ It helps teams define:
 
 ------------------------------------------------------------------------
 
-## How to Use It
+## How to Use the Tool
 
 The tool is designed to be used across the project lifecycle:
 
