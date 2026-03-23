@@ -58,6 +58,8 @@ It helps teams define:
 > Tip: Make a copy of the Google Drawing to use it for your own projects.
 >
 > Coming Soon: Google Doc and Word versions
+>
+> Last Updated: March 22, 2026 (v5.2)
 
 ------------------------------------------------------------------------
 
