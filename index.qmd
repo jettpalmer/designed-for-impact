@@ -42,26 +42,22 @@ The **Data Impact Tool (DIT)** is a one-page framework designed to support:
 
 It helps teams define:
 
--   A **vision** (the broader impact)\
--   A **impact** (what the analysis enables)\
--   A **partnership** (how collaboration creates value)\
+-   A **vision** (the broader impact)
+-   A **partnership** (how collaboration creates value)
+-   An **impact** (what the analysis enables)
+-   An **intentional analysis pathway** (how the methodology enables the impact)
 -   A **result statement** (a concise summary of impact)
 
 ------------------------------------------------------------------------
 
 ## Download the Tool
 
-### 📄 PDF Version
+-   [Download Blank Template](https://docs.google.com/drawings/d/1dryMcbH0q1QKyrC2wUpCCG87AuvtFP7Uo1-qYgNKPqE/edit?usp=sharing)
+-   [Download How-To Guide](https://docs.google.com/drawings/d/1z1JyO5Cl-xQDoghIk_gKDintyAusfbA-_RZaJ3WaAoY/edit?usp=sharing)
 
--   [Download Blank Template (PDF)](link-to-pdf-template)
--   [Download How-To Guide (PDF)](link-to-pdf-guide)
-
-### 🌐 Online Version
-
--   [Open Blank Template (Google Docs)](link-to-google-doc-template)
--   [Open How-To Guide (Google Docs)](link-to-google-doc-guide)
-
-> Tip: Make a copy of the Google Doc to use it for your own projects.
+> Tip: Make a copy of the Google Drawing to use it for your own projects.
+>
+> Coming Soon: Google Doc and Word versions
 
 ------------------------------------------------------------------------
 
