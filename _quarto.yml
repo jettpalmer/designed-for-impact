@@ -11,6 +11,9 @@ website:
         text: Use In Industry
       - href: academia.qmd
         text: Use In Academia
+  page-footer:
+    center: |
+      © 2026 Jett Palmer · This website was developed with the assistance of AI. All content was reviewed, edited, and curated by the author.
 
 format:
   html:
