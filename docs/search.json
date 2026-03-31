@@ -82,5 +82,26 @@
     "title": "Blank Template",
     "section": "Blank Template",
     "text": "Blank Template"
+  },
+  {
+    "objectID": "industry.html",
+    "href": "industry.html",
+    "title": "Use In Industry",
+    "section": "",
+    "text": "industry placeholder"
+  },
+  {
+    "objectID": "index.html#explore-use-cases",
+    "href": "index.html#explore-use-cases",
+    "title": "Designed For Impact",
+    "section": "Explore Use Cases",
+    "text": "Explore Use Cases\nThe DIT can be adapted across different collaborative settings.\n\nUse In Industry\nUse In Academia"
+  },
+  {
+    "objectID": "academia.html",
+    "href": "academia.html",
+    "title": "Use In Academia",
+    "section": "",
+    "text": "academia placeholder"
   }
 ]

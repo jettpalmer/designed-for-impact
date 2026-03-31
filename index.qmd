@@ -1,7 +1,7 @@
 ---
 title: "Designed For Impact"
 subtitle: "A Collaborative Scaffolding Tool For Translating Evidence Into Action."
-pagetitle: ""
+pagetitle: "Home"
 ---
 
 ## Welcome
@@ -37,9 +37,9 @@ This tool helps bridge the gap between **analysis** and **action**.
 
 The **Designed for Impact Tool (DIT)** is a one-page framework designed to support:
 
--   **Impact Planning (before and during a project)**
--   **Impact Evaluation (at project completion)**
--   **Clear communication with collaborators**
+-   **Impact Planning** (before and during a project)
+-   **Impact Evaluation** (at project completion)
+-   **Clear communication** with collaborators
 
 It helps teams define:
 
@@ -88,6 +88,15 @@ You can use it:
 
 -   With collaborators (as a shared planning document)
 -   As a teaching tool in statistics and data science courses or with junior consultants
+
+------------------------------------------------------------------------
+
+## Explore Use Cases
+
+The DIT can be adapted across different collaborative settings.
+
+- [Use In Industry](industry.qmd)
+- [Use In Academia](academia.qmd)
 
 ------------------------------------------------------------------------
 
