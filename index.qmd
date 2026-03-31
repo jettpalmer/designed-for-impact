@@ -89,14 +89,27 @@ You can use it:
 -   With collaborators (as a shared planning document)
 -   As a teaching tool in statistics and data science courses or with junior consultants
 
+The how-to guide provides a **one-sentence description** for each dimension and **1-2 key questions** that statistical collaborators can pose to domain experts.
+
 ------------------------------------------------------------------------
 
 ## Explore Use Cases
 
 The DIT can be adapted across different collaborative settings.
 
-- [Use In Industry](industry.qmd)
-- [Use In Academia](academia.qmd)
+::: {.columns}
+::: {.column width="50%"}
+### Use In Industry
+
+[Use In Industry](industry.qmd){.btn .btn-primary}
+:::
+
+::: {.column width="50%"}
+### Use In Academia
+
+[Use In Academia](academia.qmd){.btn .btn-primary}
+:::
+:::
 
 ------------------------------------------------------------------------
 
