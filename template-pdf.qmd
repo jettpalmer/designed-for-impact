@@ -3,8 +3,6 @@ title: "Blank Template"
 pagetitle: "Blank Template"
 ---
 
-[Back to Home](index.qmd){.btn .btn-outline-secondary}
-
 [Open PDF in New Tab](files/dit-template.pdf){.btn .btn-primary target="_blank"}
 
 ## Blank Template

@@ -3,8 +3,6 @@ title: "How-To Guide"
 pagetitle: "How-To Guide"
 ---
 
-[Back to Home](index.qmd){.btn .btn-outline-secondary}
-
 [Open PDF in New Tab](files/dit-guide.pdf){.btn .btn-primary target="_blank"}
 
 ## How-To Guide
