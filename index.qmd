@@ -1,6 +1,6 @@
 ---
 title: "Designed For Impact"
-subtitle: "A Collaborative Scaffolding Tool For Translating Evidence Into Action"
+subtitle: "A Collaborative Scaffolding Tool For Translating Evidence Into Action."
 pagetitle: ""
 ---
 
@@ -53,13 +53,20 @@ It helps teams define:
 
 ## Download the Tool
 
--   [Download Blank Template](https://docs.google.com/drawings/d/1dryMcbH0q1QKyrC2wUpCCG87AuvtFP7Uo1-qYgNKPqE/edit?usp=sharing)
--   [Download How-To Guide](https://docs.google.com/drawings/d/1z1JyO5Cl-xQDoghIk_gKDintyAusfbA-_RZaJ3WaAoY/edit?usp=sharing)
+::: {.columns}
+::: {.column width="50%"}
+### Blank Template
 
-> Tip: Make a copy of the Google Drawing to use it for your own projects.
->
-> Coming Soon: Google Doc and Word versions
->
+[View Blank Template](template-pdf.qmd){.btn .btn-primary}
+:::
+
+::: {.column width="50%"}
+### How-To Guide
+
+[View How-To Guide](guide-pdf.qmd){.btn .btn-primary}
+:::
+:::
+
 > Last Updated: March 22, 2026 (v5.2)
 
 ------------------------------------------------------------------------
@@ -109,7 +116,8 @@ If you are:
 -   A statistician
 -   A data scientist
 -   A consultant
--   A researcher working with collaborators
+-   A researcher
+-   A student
 
 I’d love your feedback.
 

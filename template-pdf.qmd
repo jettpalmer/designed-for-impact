@@ -1,0 +1,14 @@
+---
+title: "Blank Template"
+pagetitle: "Blank Template"
+---
+
+[Back to Home](index.qmd){.btn .btn-outline-secondary}
+
+[Open PDF in New Tab](files/dit-template.pdf){.btn .btn-primary target="_blank"}
+
+## Blank Template
+
+<iframe src="files/dit-template.pdf" width="100%" height="900" style="border: 1px solid #d8d0cb; border-radius: 8px;">
+
+</iframe>
