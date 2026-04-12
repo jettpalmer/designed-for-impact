@@ -31,14 +31,11 @@ The prompts below are tailored to guide these conversations in academic collabor
 **Discussion Prompts:**
 
 -   What broader research area or field does this project contribute to?
--   What gap in knowledge is this project addressing?
--   How might this work advance theory, methodology, or empirical understanding?
 -   What is the long-term scholarly significance of this research?
--   How could this work influence future studies or lines of inquiry?
--   What societal or policy-relevant issues does this research connect to?
--   What is the “North Star” contribution this project aims toward?
+-   What societal issues does this research connect to?
+-   What is the “north star” contribution this project aims toward?
 -   How does this project fit into a broader research agenda or program?
--   What would make this work impactful within the academic community?
+-   What would make this work impactful within the academic community or beyond?
 
 ------------------------------------------------------------------------
 
@@ -51,8 +48,7 @@ The prompts below are tailored to guide these conversations in academic collabor
 -   What are each collaborator’s roles and expectations in this project?
 -   What would make this collaboration especially productive or rewarding?
 -   How will authorship and contributions be determined and communicated?
--   What are the timelines for key milestones (analysis, writing, submission)?
--   How will decisions be made when there is disagreement?
+-   What are the timelines or deadlines for project milestones (analysis, writing, submission)?
 -   What prior experiences shape expectations for collaboration?
 -   How can we ensure transparency and mutual understanding throughout the project?
 -   What opportunities exist for future collaboration or continued work?
@@ -76,7 +72,7 @@ The prompts below are tailored to guide these conversations in academic collabor
 -   What are the practical or real-world implications of this research?
 -   What uncertainties or limitations are central to the interpretation?
 -   What would make the findings meaningful or influential in the field?
--   How does this work connect to existing literature?
+-   How does this work validate or go beyond existing literature?
 
 ------------------------------------------------------------------------
 
@@ -90,7 +86,6 @@ The prompts below are tailored to guide these conversations in academic collabor
 -   What study design best supports the research question (experimental, observational, longitudinal)?
 -   What assumptions are required for valid inference?
 -   How will uncertainty be quantified and communicated?
--   What robustness checks or sensitivity analyses are needed?
 -   How will results be validated or replicated?
 -   What statistical methods align with the theoretical framing of the study?
 -   How will data limitations affect interpretation?
@@ -124,7 +119,7 @@ The prompts below are tailored to guide these conversations in academic collabor
 Advance understanding of the gap between environmental attitudes and behaviors to inform interventions that promote sustainable action.
 
 **Partnership**\
-Support a collaborative research process that aligns methodological rigor with the goals of the research team and contributes to publishable work.
+Align methodological rigor with domain experts' goals to produce publishable work, with all contributors recognized as co-authors.
 
 **Impact**\
 Provide evidence on the relationship between environmental concern and actual behavior, contributing to literature on cognitive dissonance and sustainability.
@@ -133,7 +128,7 @@ Provide evidence on the relationship between environmental concern and actual be
 Use regression modeling and survey data analysis to estimate associations between attitudes and behaviors, with careful attention to measurement validity and confounding variables.
 
 **Impact Narrative**\
-The study found a measurable gap between reported concern and actual behavior, consistent with prior literature. The results contributed to a deeper understanding of cognitive dissonance in environmental contexts and informed future research on behavioral interventions.
+Found a measurable gap between environmental concern and behavior, enabling researchers to design targeted interventions that better align sustainable attitudes with actions.
 
 ------------------------------------------------------------------------
 
@@ -143,7 +138,7 @@ The study found a measurable gap between reported concern and actual behavior, c
 Improve patient outcomes by strengthening the evidence base for treatment effectiveness.
 
 **Partnership**\
-Foster a transparent and rigorous collaboration between statisticians and clinical researchers to support high-quality, publishable research.
+Foster a transparent and rigorous collaboration between statisticians and clinical researchers to support high-quality, publishable research, with team leads as co-authors.
 
 **Impact**\
 Estimate the effectiveness of a treatment while accounting for confounding factors, contributing to clinical decision-making and medical knowledge.
@@ -152,4 +147,4 @@ Estimate the effectiveness of a treatment while accounting for confounding facto
 Apply causal inference methods (e.g., propensity score matching or regression adjustment) to observational data, ensuring assumptions are clearly stated and evaluated.
 
 **Impact Narrative**\
-The analysis provided evidence supporting the effectiveness of the treatment, while also highlighting important limitations due to observational data. The findings contributed to a peer-reviewed publication and informed future study design and clinical investigation.
+Equipped clinical researchers with evidence on treatment effectiveness and its limitations, informing their decision to pursue larger clinical trials.
