@@ -6,13 +6,16 @@ pagetitle: "Home"
 
 ## Welcome
 
-Statistical consulting is not just about producing correct analyses — It’s about creating **meaningful, real-world impact**.
+The Designed for Impact Tool (DIT) is a **fillable**, **collaborative worksheet** that helps statisticians and domain experts plan for real-world impact from the start of a project.
 
-This project introduces a structured workflow and tool to help statisticians and data scientists:
+It guides teams to:
 
--   Align with stakeholders early in a project
--   Translate analysis into an impact narrative
--   Clearly communicate the impact of their work
+-   Align on goals and expectations
+-   Define a clear, decision-focused intended impact
+-   Connect analysis choices to that impact
+-   Communicate results in a way that supports action
+
+The tool is designed to be completed together — structuring conversations that shape both the analysis and how its results are used.
 
 ## Why This Matters
 
@@ -29,25 +32,19 @@ It’s about:
 -   Guiding stakeholder decisions
 -   Delivering impact that matters
 
-This tool helps bridge the gap between **analysis** and **action**.
+This tool helps bridge the gap between **analysis** and **action** -- moving statisticians and data scientists from analysts to **co-creators of impact**.
 
 ------------------------------------------------------------------------
 
 ## The Tool
 
-The **Designed for Impact Tool (DIT)** is a one-page framework designed to support:
+The **Designed for Impact Tool (DIT)** is a one-page instrument that helps teams define:
 
--   **Impact Planning** (before and during a project)
--   **Impact Evaluation** (at project completion)
--   **Clear communication** with collaborators
-
-It helps teams define:
-
--   A **vision** (the broader impact)
--   A **partnership** (how collaboration creates value)
--   An **impact** (what the analysis enables)
--   An **intentional analysis pathway** (how the methodology enables the impact)
--   A **result statement** (a concise summary of impact)
+-   **Vision** – What broader goal does this work contribute to?
+-   **Partnership** – What makes this collaboration successful?
+-   **Impact** – What decision or action should this work enable?
+-   **Analysis Pathway** – What methodological choices are needed to support that impact?
+-   **Narrative** – How will results be communicated to drive action?
 
 ------------------------------------------------------------------------
 
@@ -67,29 +64,9 @@ It helps teams define:
 :::
 :::
 
-> Last Updated: April 22, 2026 (v6.0)
-
-------------------------------------------------------------------------
-
-## How to Use the Tool
-
-The tool is designed to be used across the project lifecycle:
-
-1.  **Before analysis (Q1)**\
-    Align on goals, context, and intended impact
-
-2.  **During analysis (Q2)**\
-    Keep work grounded in stakeholder priorities
-
-3.  **After analysis (Q3)**\
-    Translate results into action and articulate impact
-
-You can use it:
-
--   With collaborators (as a shared planning document)
--   As a teaching tool in statistics and data science courses or with junior consultants
-
 The how-to guide provides a **one-sentence description** for each dimension and **1-2 key questions** that statistical collaborators can pose to domain experts.
+
+> Last Updated: April 22, 2026 (v6.0)
 
 ------------------------------------------------------------------------
 
@@ -120,14 +97,8 @@ This website accompanies a master’s thesis focused on improving **statistical 
 The project:
 
 -   Extends the QQQ and ASCCR frameworks
--   Introduces structured impact planning conversations
--   Develops and evaluates a practical consulting tool
-
-Future pages will include:
-
--   Expanded discussion prompts
--   Industry-specific adaptations
--   Example use cases
+-   Introduces structured impact planning conversations to the statistics and data science collaborative workflow
+-   Develops and validates a practical consulting tool
 
 ------------------------------------------------------------------------
 
