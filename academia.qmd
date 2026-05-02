@@ -8,108 +8,19 @@ In academic settings, statistical work is most valuable when it contributes to *
 
 The Designed for Impact Tool (DIT) helps researchers and collaborators:
 
--   Clarify research goals and broader significance\
--   Align analytical work with theoretical and methodological aims\
--   Connect results to interpretation and contribution\
--   Communicate findings in a way that advances understanding
+- Clarify research goals and broader significance
+- Align analytical work with theoretical and methodological aims
+- Connect results to interpretation and contribution
+- Communicate findings in a way that advances understanding
 
 In this context, impact is often tied to:
 
--   Advancing knowledge within a field\
--   Informing future research directions\
--   Contributing to theory, methods, or evidence\
--   Supporting evidence-based decision-making
+- Advancing knowledge within a field
+- Informing future research directions
+- Contributing to theory, methods, or evidence
+- Supporting evidence-based decision-making
 
-The prompts below are tailored to guide these conversations in academic collaborations.
-
-------------------------------------------------------------------------
-
-## Vision
-
-*A concise, forward-looking declaration about the long-term goal of the company, department, or team.*
-
-**Discussion Prompts:**
-
--   What broader research area or field does this project contribute to?
--   What is the long-term scholarly significance of this research?
--   What societal issues does this research connect to?
--   What is the “north star” contribution this project aims toward?
--   How does this project fit into a broader research agenda or program?
--   What would make this work impactful within the academic community or beyond?
-
-------------------------------------------------------------------------
-
-## Partnership
-
-*How this engagement builds trust, alignment, and opportunity for future collaboration.*
-
-**Discussion Prompts:**
-
--   What are each collaborator’s roles and expectations in this project?
--   What would make this collaboration especially productive or rewarding?
--   How will authorship and contributions be determined and communicated?
--   What are the timelines or deadlines for project milestones (analysis, writing, submission)?
--   What prior experiences shape expectations for collaboration?
--   How can we ensure transparency and mutual understanding throughout the project?
--   What opportunities exist for future collaboration or continued work?
--   How can we support each other’s professional goals (e.g., publications, theses, grants)?
--   What communication norms will help maintain alignment?
-
-------------------------------------------------------------------------
-
-## Impact
-
-*The operational, strategic, economic, or knowledge-driven outcome of this collaboration.*
-
-**Discussion Prompts:**
-
--   What specific research question(s) is this project answering?
--   What type of contribution does this work aim to make (theoretical, methodological, applied)?
--   Who is the primary audience for this research (academics, practitioners, policymakers)?
--   What claims or conclusions should this study support?
--   What level of evidence is needed to support those claims?
--   How will this work be evaluated (e.g., publication, citation, replication)?
--   What are the practical or real-world implications of this research?
--   What uncertainties or limitations are central to the interpretation?
--   What would make the findings meaningful or influential in the field?
--   How does this work validate or go beyond existing literature?
-
-------------------------------------------------------------------------
-
-## Evidence To Impact Strategy
-
-*How the analytical approach enables the intended impact.*
-
-**Discussion Prompts:**
-
--   Is the goal to estimate causal effects, describe relationships, or build predictive models?
--   What study design best supports the research question (experimental, observational, longitudinal)?
--   What assumptions are required for valid inference?
--   How will uncertainty be quantified and communicated?
--   How will results be validated or replicated?
--   What statistical methods align with the theoretical framing of the study?
--   How will data limitations affect interpretation?
--   What visualizations best support interpretation and communication of results?
--   How will the analysis support clear and defensible conclusions?
-
-------------------------------------------------------------------------
-
-## Impact Narrative
-
-*How findings translate to an immediate or future impact on stakeholders or the decisions they need to make.*
-
-**Discussion Prompts:**
-
--   To what extent did the findings answer the research question?
--   What new insights or contributions emerged from this work?
--   How do the findings compare to prior literature?
--   What limitations affect the interpretation of results?
--   What future research directions does this work suggest?
--   How were the findings disseminated (e.g., publication, presentation)?
--   Who benefits from this knowledge, and how?
--   Did the results influence practice, policy, or further study?
--   How did this collaboration contribute to professional development or future opportunities?
--   What would strengthen the impact of this work in future iterations?
+The examples and prompts below are tailored to guide these conversations in academic collaborations.
 
 ------------------------------------------------------------------------
 
@@ -124,10 +35,10 @@ Align methodological rigor with domain experts' goals to produce publishable wor
 **Impact**\
 Provide evidence on the relationship between environmental concern and actual behavior, contributing to literature on cognitive dissonance and sustainability.
 
-**Evidence To Impact Strategy**\
+**Analysis Pathway**\
 Use regression modeling and survey data analysis to estimate associations between attitudes and behaviors, with careful attention to measurement validity and confounding variables.
 
-**Impact Narrative**\
+**Narrative**\
 Found a measurable gap between environmental concern and behavior, enabling researchers to design targeted interventions that better align sustainable attitudes with actions.
 
 ------------------------------------------------------------------------
@@ -143,8 +54,97 @@ Foster a transparent and rigorous collaboration between statisticians and clinic
 **Impact**\
 Estimate the effectiveness of a treatment while accounting for confounding factors, contributing to clinical decision-making and medical knowledge.
 
-**Evidence To Impact Strategy**\
+**Analysis Pathway**\
 Apply causal inference methods (e.g., propensity score matching or regression adjustment) to observational data, ensuring assumptions are clearly stated and evaluated.
 
-**Impact Narrative**\
+**Narrative**\
 Equipped clinical researchers with evidence on treatment effectiveness and its limitations, informing their decision to pursue larger clinical trials.
+
+------------------------------------------------------------------------
+
+## Vision
+
+*A concise, forward-looking declaration about the long-term goal of the company, department, or team.*
+
+**Discussion Prompts:**
+
+- What broader research area or field does this project contribute to?
+- What is the long-term scholarly significance of this research?
+- What societal issues does this research connect to?
+- What is the “north star” contribution this project aims toward?
+- How does this project fit into a broader research agenda or program?
+- What would make this work impactful within the academic community or beyond?
+
+------------------------------------------------------------------------
+
+## Partnership
+
+*How this engagement builds trust, alignment, and opportunity for future collaboration.*
+
+**Discussion Prompts:**
+
+- What are each collaborator’s roles and expectations in this project?
+- What would make this collaboration especially productive or rewarding?
+- How will authorship and contributions be determined and communicated?
+- What are the timelines or deadlines for project milestones (analysis, writing, submission)?
+- What prior experiences shape expectations for collaboration?
+- How can we ensure transparency and mutual understanding throughout the project?
+- What opportunities exist for future collaboration or continued work?
+- How can we support each other’s professional goals (e.g., publications, theses, grants)?
+- What communication norms will help maintain alignment?
+
+------------------------------------------------------------------------
+
+## Impact
+
+*The operational, strategic, economic, or knowledge-driven outcome of this collaboration.*
+
+**Discussion Prompts:**
+
+- What specific research question(s) is this project answering?
+- What type of contribution does this work aim to make (theoretical, methodological, applied)?
+- Who is the primary audience for this research (academics, practitioners, policymakers)?
+- What claims or conclusions should this study support?
+- What level of evidence is needed to support those claims?
+- How will this work be evaluated (e.g., publication, citation, replication)?
+- What are the practical or real-world implications of this research?
+- What uncertainties or limitations are central to the interpretation?
+- What would make the findings meaningful or influential in the field?
+- How does this work validate or go beyond existing literature?
+
+------------------------------------------------------------------------
+
+## Analysis Pathway
+
+*How the analytical approach enables the intended impact.*
+
+**Discussion Prompts:**
+
+- Is the goal to estimate causal effects, describe relationships, or build predictive models?
+- What study design best supports the research question (experimental, observational, longitudinal)?
+- What assumptions are required for valid inference?
+- How will uncertainty be quantified and communicated?
+- How will results be validated or replicated?
+- What statistical methods align with the theoretical framing of the study?
+- How will data limitations affect interpretation?
+- What visualizations best support interpretation and communication of results?
+- How will the analysis support clear and defensible conclusions?
+
+------------------------------------------------------------------------
+
+## Narrative
+
+*How findings translate to an immediate or future impact on stakeholders or the decisions they need to make.*
+
+**Discussion Prompts:**
+
+- To what extent did the findings answer the research question?
+- What new insights or contributions emerged from this work?
+- How do the findings compare to prior literature?
+- What limitations affect the interpretation of results?
+- What future research directions does this work suggest?
+- How were the findings disseminated (e.g., publication, presentation)?
+- Who benefits from this knowledge, and how?
+- Did the results influence practice, policy, or further study?
+- How did this collaboration contribute to professional development or future opportunities?
+- What would strengthen the impact of this work in future iterations?

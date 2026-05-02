@@ -8,113 +8,19 @@ In industry settings, statistical work is most valuable when it directly informs
 
 The Designed for Impact Tool (DIT) helps consultants and data scientists move beyond analysis by:
 
--   Aligning with business priorities early\
--   Framing work in terms of decisions and stakeholders\
--   Connecting models to measurable outcomes\
--   Communicating results in a way that drives action
+- Aligning with business priorities early
+- Framing work in terms of decisions and stakeholders
+- Connecting models to measurable outcomes
+- Communicating results in a way that drives action
 
 In this context, impact is often tied to:
 
--   Revenue, cost, or efficiency gains\
--   Risk reduction\
--   Customer or user experience improvements\
--   Strategic positioning
+- Revenue, cost, or efficiency gains
+- Risk reduction
+- Customer or user experience improvements
+- Strategic positioning
 
-The prompts below are tailored to help guide these conversations in industry collaborations.
-
-------------------------------------------------------------------------
-
-## Vision
-
-*A concise, forward-looking declaration about the long-term goal of the company, department, or team.*
-
-**Discussion Prompts:**
-
--   What strategic priority or high-level business objective does this project support?
--   How does this work align with company-wide goals (e.g., growth, retention, sustainability)?
--   What does success look like at a 1–3 year horizon?
--   What competitive advantage could this project contribute to?
--   How might this project create value for customers or end-users?
--   What “north star” metric best reflects long-term success?
--   In moments of uncertainty, what guiding principle should decisions defer to?
--   How does this project fit into broader product, operational, or market strategy?
-
-------------------------------------------------------------------------
-
-## Partnership
-
-*How this engagement builds trust, alignment, and opportunity for future collaboration.*
-
-**Discussion Prompts:**
-
--   What would make this collaboration exceptionally valuable to you?
--   What does “exceeding expectations” look like from your perspective?
--   How do you prefer to receive updates, insights, or deliverables?
--   What level of involvement do you want throughout the project?
--   What constraints (time, resources, data access) should we be aware of?
--   What past experiences (positive or negative) shape your expectations for this project?
--   How can we ensure alignment as priorities evolve?
--   What might lead to an extension of our scope of work?
--   How can we deliver value early, not just at the end?
--   What risks (organizational, political, operational) should we be mindful of?
--   What are the foreseeable costs of being wrong or uncertain?
-
-------------------------------------------------------------------------
-
-## Impact
-
-*The operational, strategic, economic, or knowledge-driven outcome of this collaboration.*
-
-**Discussion Prompts:**
-
--   What specific decision(s) will this project inform?
--   Who are the primary stakeholders or decision-makers?
--   What actions should change as a result of this work?
--   What metrics will reflect whether the project was successful?
--   What is the expected business value (e.g., revenue increase, cost savings, efficiency)?
--   What is the cost of being wrong or uncertain in this context?
--   What level of precision or confidence is required for decision-making?
--   How quickly do decisions need to be made?
--   What trade-offs (e.g., speed vs accuracy) are acceptable?
--   What would make this project actionable rather than just informative?
-
-------------------------------------------------------------------------
-
-## Evidence To Impact Strategy
-
-*How the analytical approach enables the intended impact.*
-
-**Discussion Prompts:**
-
--   Is the primary goal prediction (forecasting outcomes) or inference (understanding drivers)?
--   What level of model complexity is appropriate for the business context?
--   How will results be translated into decisions (e.g., thresholds, rankings, recommendations)?
--   What format of output is most useful (dashboard, score, rule, report)?
--   What data limitations or biases could affect decisions?
--   How will uncertainty be communicated to stakeholders?
--   What assumptions must hold for the analysis to be useful?
--   How will this integrate into existing workflows or systems?
--   What is the plan for monitoring or updating the model over time?
--   How can we make results interpretable to non-technical stakeholders?
-
-------------------------------------------------------------------------
-
-## Impact Narrative
-
-*How findings translate to an immediate or future impact on stakeholders or the decisions they need to make.*
-
-**Discussion Prompts:**
-
--   What changed as a result of this project?
--   Were decisions actually made using the results? If not, why?
--   What measurable outcomes were observed (e.g., lift, savings, adoption)?
--   How did this project contribute to business goals or KPIs?
--   What barriers prevented full realization of impact?
--   What follow-up actions or projects emerged?
--   How did this work strengthen the client relationship?
--   What would we do differently next time to increase impact?
--   How did this project contribute to the broader vision?
--   What is the long-term value created by this work?
+The examples and prompts below are tailored to help guide these conversations in industry collaborations.
 
 ------------------------------------------------------------------------
 
@@ -129,10 +35,10 @@ Deliver actionable insights quickly to support campaign planning cycles and buil
 **Impact**\
 Enable the marketing team to allocate budget across channels and segments to maximize conversion rates and ROI.
 
-**Evidence To Impact Strategy**\
+**Analysis Pathway**\
 Develop predictive models to estimate conversion probability across customer segments, paired with interpretable visualizations to guide budget allocation decisions.
 
-**Impact Narrative**\
+**Narrative**\
 The model identified high-value customer segments with significantly higher conversion likelihood. Marketing shifted budget toward these segments, resulting in a measurable increase in campaign ROI and improved collaboration between analytics and marketing teams.
 
 ------------------------------------------------------------------------
@@ -148,8 +54,102 @@ Support the operations team in making timely decisions to strengthen trust with 
 **Impact**\
 Enable inventory and production decisions that reduce stockouts and overstock, improving service levels and reducing costs.
 
-**Evidence To Impact Strategy**\
+**Analysis Pathway**\
 Build time-series forecasting models with uncertainty estimates, delivered through a dashboard that supports scenario planning and operational decision-making.
 
-**Impact Narrative**\
+**Narrative**\
 Improved forecast accuracy allowed operations teams to better align inventory with demand, reducing excess inventory and minimizing stockouts. The forecasting system became a core input to planning meetings, strengthening the role of data in operational decisions.
+
+------------------------------------------------------------------------
+
+## Vision
+
+*A concise, forward-looking declaration about the long-term goal of the company, department, or team.*
+
+**Discussion Prompts:**
+
+- What strategic priority or high-level business objective does this project support?
+- How does this work align with company-wide goals (e.g., growth, retention, sustainability)?
+- What does success look like at a 1–3 year horizon?
+- What competitive advantage could this project contribute to?
+- How might this project create value for customers or end-users?
+- What “north star” metric best reflects long-term success?
+- In moments of uncertainty, what guiding principle should decisions defer to?
+- How does this project fit into broader product, operational, or market strategy?
+
+------------------------------------------------------------------------
+
+## Partnership
+
+*How this engagement builds trust, alignment, and opportunity for future collaboration.*
+
+**Discussion Prompts:**
+
+- What would make this collaboration exceptionally valuable to you?
+- What does “exceeding expectations” look like from your perspective?
+- How do you prefer to receive updates, insights, or deliverables?
+- What level of involvement do you want throughout the project?
+- What constraints (time, resources, data access) should we be aware of?
+- What past experiences (positive or negative) shape your expectations for this project?
+- How can we ensure alignment as priorities evolve?
+- What might lead to an extension of our scope of work?
+- How can we deliver value early, not just at the end?
+- What risks (organizational, political, operational) should we be mindful of?
+- What are the foreseeable costs of being wrong or uncertain?
+
+------------------------------------------------------------------------
+
+## Impact
+
+*The operational, strategic, economic, or knowledge-driven outcome of this collaboration.*
+
+**Discussion Prompts:**
+
+- What specific decision(s) will this project inform?
+- Who are the primary stakeholders or decision-makers?
+- What actions should change as a result of this work?
+- What metrics will reflect whether the project was successful?
+- What is the expected business value (e.g., revenue increase, cost savings, efficiency)?
+- What is the cost of being wrong or uncertain in this context?
+- What level of precision or confidence is required for decision-making?
+- How quickly do decisions need to be made?
+- What trade-offs (e.g., speed vs accuracy) are acceptable?
+- What would make this project actionable rather than just informative?
+
+------------------------------------------------------------------------
+
+## Analysis Pathway
+
+*How the analytical approach enables the intended impact.*
+
+**Discussion Prompts:**
+
+- Is the primary goal prediction (forecasting outcomes) or inference (understanding drivers)?
+- What level of model complexity is appropriate for the business context?
+- How will results be translated into decisions (e.g., thresholds, rankings, recommendations)?
+- What format of output is most useful (dashboard, score, rule, report)?
+- What data limitations or biases could affect decisions?
+- How will uncertainty be communicated to stakeholders?
+- What assumptions must hold for the analysis to be useful?
+- How will this integrate into existing workflows or systems?
+- What is the plan for monitoring or updating the model over time?
+- How can we make results interpretable to non-technical stakeholders?
+
+------------------------------------------------------------------------
+
+## Narrative
+
+*How findings translate to an immediate or future impact on stakeholders or the decisions they need to make.*
+
+**Discussion Prompts:**
+
+- What changed as a result of this project?
+- Were decisions actually made using the results? If not, why?
+- What measurable outcomes were observed (e.g., lift, savings, adoption)?
+- How did this project contribute to business goals or KPIs?
+- What barriers prevented full realization of impact?
+- What follow-up actions or projects emerged?
+- How did this work strengthen the client relationship?
+- What would we do differently next time to increase impact?
+- How did this project contribute to the broader vision?
+- What is the long-term value created by this work?

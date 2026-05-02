@@ -15,7 +15,7 @@ It guides teams to:
 -   Connect analysis choices to that impact
 -   Communicate results in a way that supports action
 
-The tool is designed to be completed together — structuring conversations that shape both the analysis and how its results are used.
+The tool is designed to structure conversations that shape both the analysis and how its results are used.
 
 ## Why This Matters
 
