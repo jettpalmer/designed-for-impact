@@ -10,10 +10,10 @@ The Designed for Impact Tool (DIT) is a **fillable**, **collaborative worksheet*
 
 It guides teams to:
 
--   Align on goals and expectations
--   Define a clear, decision-focused intended impact
--   Connect analysis choices to that impact
--   Communicate results in a way that supports action
+- Align on goals and expectations
+- Define a clear, decision-focused intended impact
+- Connect analysis choices to that impact
+- Communicate results in a way that supports action
 
 The tool is designed to structure conversations that shape both the analysis and how its results are used.
 
@@ -23,34 +23,34 @@ As data science becomes increasingly automated, the value of a statistician is s
 
 It’s no longer just about:
 
--   Running models
--   Interpreting results
+- Running models
+- Interpreting results
 
 It’s about:
 
--   Asking the right questions
--   Guiding stakeholder decisions
--   Delivering impact that matters
+- Asking the right questions
+- Guiding stakeholder decisions
+- Delivering impact that matters
 
-This tool helps bridge the gap between **analysis** and **action** -- moving statisticians and data scientists from analysts to **co-creators of impact**.
+This tool helps bridge the **knowledge gap** between statistical collaborator and domain expert, moving statisticians from analysts to **co-creators of impact**.
 
-------------------------------------------------------------------------
+![](images/clipboard-3380446436.png)
 
 ## The Tool
 
 The **Designed for Impact Tool (DIT)** is a one-page instrument that helps teams define:
 
--   **Vision** – What broader goal does this work contribute to?
--   **Partnership** – What makes this collaboration successful?
--   **Impact** – What decision or action should this work enable?
--   **Analysis Pathway** – What methodological choices are needed to support that impact?
--   **Narrative** – How will results be communicated to drive action?
+- **Vision** – What broader goal does this work contribute to?
+- **Partnership** – What makes this collaboration successful?
+- **Impact** – What decision or action should this work enable?
+- **Analysis Pathway** – What methodological choices are needed to support that impact?
+- **Narrative** – How will results be communicated to drive action?
 
-------------------------------------------------------------------------
+![](images/clipboard-2332871369.png)
 
 ## Download the Tool
 
-::: {.columns}
+::::: columns
 ::: {.column width="50%"}
 ### Blank Template
 
@@ -62,7 +62,7 @@ The **Designed for Impact Tool (DIT)** is a one-page instrument that helps teams
 
 [View How-To Guide](guide-pdf.qmd){.btn .btn-primary}
 :::
-:::
+:::::
 
 The how-to guide provides a **one-sentence description** for each dimension and **1-2 key questions** that statistical collaborators can pose to domain experts.
 
@@ -74,7 +74,7 @@ The how-to guide provides a **one-sentence description** for each dimension and 
 
 The DIT can be adapted across different collaborative settings.
 
-::: {.columns}
+::::: columns
 ::: {.column width="50%"}
 ### Use In Industry
 
@@ -86,7 +86,7 @@ The DIT can be adapted across different collaborative settings.
 
 [Use In Academia](academia.qmd){.btn .btn-primary}
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
@@ -96,9 +96,9 @@ This website accompanies a master’s thesis focused on improving **statistical 
 
 The project:
 
--   Extends the QQQ and ASCCR frameworks
--   Introduces structured impact planning conversations to the statistics and data science collaborative workflow
--   Develops and validates a practical consulting tool
+- Extends the QQQ and ASCCR frameworks
+- Introduces structured impact planning conversations to the statistics and data science collaborative workflow
+- Develops and validates a practical consulting tool
 
 ------------------------------------------------------------------------
 
@@ -106,11 +106,11 @@ The project:
 
 If you are:
 
--   A statistician
--   A data scientist
--   A consultant
--   A researcher
--   A student
+- A statistician
+- A data scientist
+- A consultant
+- A researcher
+- A student
 
 I’d love your feedback.
 
