@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/
 
 website:
   title: "Designed For Impact"
@@ -22,4 +24,5 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-before-body: _includes/legacy-site-banner.html
     toc: false
