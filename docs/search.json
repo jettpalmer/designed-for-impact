@@ -1,72 +1,261 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Design For Impact is a collaborative scaffold for helping statistical collaborators maximize and communicate the value of their work.\n\n\n\n\nThe project brings alignment, intentionality, and translation into the everyday conversations that shape evidence-based work. More about its development, evaluation, and research foundations will be shared here in a future release."
-  },
-  {
-    "objectID": "about.html#the-project",
-    "href": "about.html#the-project",
-    "title": "About",
-    "section": "",
-    "text": "The project brings alignment, intentionality, and translation into the everyday conversations that shape evidence-based work. More about its development, evaluation, and research foundations will be shared here in a future release."
-  },
-  {
-    "objectID": "tool.html",
-    "href": "tool.html",
-    "title": "The Tool",
-    "section": "",
-    "text": "Design For Impact gives collaborators a structured place to connect project context, analytical choices, and decision-ready communication.\n\n\n\n\nThe combined Tool + Guide brings the worksheet and its practical prompts together in one downloadable resource.\nDownload the Tool + Guide\n\n\n\nUse the tool before kickoff to prepare thoughtful questions, return to it as project constraints change, and use it to shape a closeout narrative that is meaningful to the people making decisions.\n\n\n\nInstructor resources will be available here in a future release. They will support teaching the connection between statistical choices, collaboration, and the communication of evidence."
-  },
-  {
-    "objectID": "tool.html#tool-guide",
-    "href": "tool.html#tool-guide",
-    "title": "The Tool",
-    "section": "",
-    "text": "The combined Tool + Guide brings the worksheet and its practical prompts together in one downloadable resource.\nDownload the Tool + Guide"
-  },
-  {
-    "objectID": "tool.html#implementation-guidance",
-    "href": "tool.html#implementation-guidance",
-    "title": "The Tool",
-    "section": "",
-    "text": "Use the tool before kickoff to prepare thoughtful questions, return to it as project constraints change, and use it to shape a closeout narrative that is meaningful to the people making decisions."
-  },
-  {
-    "objectID": "tool.html#instructor-resources",
-    "href": "tool.html#instructor-resources",
-    "title": "The Tool",
-    "section": "",
-    "text": "Instructor resources will be available here in a future release. They will support teaching the connection between statistical choices, collaboration, and the communication of evidence."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Design For Impact",
+    "title": "Designed For Impact",
     "section": "",
-    "text": "Design For Impact\n\n\nA collaborative scaffold for maximizing and communicating impact in statistical collaboration.\n\n\nDownload the Tool + Guide Learn More\n\n\n\n\n\n\n\nA shared workspace for the conversations that shape a project.\n\n\n\n\n\n\n\nImpact doesn’t happen automatically—it requires alignment, intentionality, and translation.\n\n\n\n\n\n\n\nFrom evidence to action.\n\n\nDesign For Impact builds on the Q1Q2Q3 framework developed by Vance and colleagues, which moves from qualitative context gathering, through quantitative analysis, to qualitative interpretation.\n\n\n\n\n\nQ1\n\n\nQualitative\n\n\nAlignment\n\n\n\n→\n\n\n\nQ2\n\n\nQuantitative\n\n\nIntentionality\n\n\n\n→\n\n\n\nQ3\n\n\nQualitative\n\n\nTranslation\n\n\n\n\n\n\nAlignment\n\n\nEstablish the project’s broader vision, intended impact, and expectations for the partnership.\n\n\n\n\nIntentionality\n\n\nChoose the design, dataset, analytical approach, and communication products that enable the intended impact.\n\n\n\n\nTranslation\n\n\nDevelop an audience-specific, evidence-based narrative connecting the findings to the stakeholders, decisions, or actions identified in Q1.\n\n\n\n\n\nThe tool turns these principles into five practical components.\n\nExplore the Tool →\n\n\n\n\n\n\n\nA scaffold, not a script.\n\n\nUse the tool as a shared document between you and your collaborator, or adapt it to your needs.\n\n\n\n\n\nPrepare\n\n\nReview the guide and develop questions before kickoff.\n\n\n\n\nAlign\n\n\nEstablish Q1 with collaborators and confirm shared understanding.\n\n\n\n\nAnalyze\n\n\nDevelop Q2 and revisit it as evidence or constraints change.\n\n\n\n\nTranslate\n\n\nUse Q3 to shape decision-ready closeout communication.\n\n\n\nSee Implementation Guidance →\n\n\n\n\n\n\nSee Design For Impact in action.\n\n\nExplore two fictitious collaborations showing how Design For Impact adapts across professional and academic settings.\n\n\n\n\n\nMarketing Campaign Optimization\n\n\nConnecting customer-segmentation analysis to budget allocation, campaign planning, and conversion.\n\nView Example →\n\n\n\nEnvironmental Attitudes and Behavior\n\n\nUsing complex findings to guide future research and the design of behavioral interventions.\n\nView Example →\n\n\n\n\n\n\n\n\nResources for applying and teaching Design For Impact.\n\n\n\n\n\nFor practitioners\n\n\nIntegrate Design For Impact into scoping conversations, project check-ins, analysis planning, and closeout without replacing your existing workflow.\n\nUse the Tool →\n\n\n\nFor instructors\n\n\nHelp students connect statistical decisions to collaboration, stakeholder needs, and the communication of evidence.\n\nExplore Instructor Resources →\n\n\n\n\n\n\n\n\nEvaluated by students and practitioners.\n\n\nDesign For Impact was refined using feedback from students and practitioners from industry and academia.\n\n\nAbout the Project →"
+    "text": "The Designed for Impact Tool (DIT) is a fillable, collaborative worksheet that helps statisticians and domain experts plan for real-world impact from the start of a project.\nIt guides teams to:\n\nAlign on goals and expectations\nDefine a clear, decision-focused intended impact\nConnect analysis choices to that impact\nCommunicate results in a way that supports action\n\nThe tool is designed to structure conversations that shape both the analysis and how its results are used."
   },
   {
-    "objectID": "examples.html",
-    "href": "examples.html",
-    "title": "Examples",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Designed For Impact",
     "section": "",
-    "text": "Illustrative collaborations will show how Design For Impact adapts to distinct professional and academic settings.\n\n\n\n\nThis forthcoming example connects customer-segmentation analysis to budget allocation, campaign planning, and conversion.\n\n\n\nThis forthcoming example uses complex findings to guide future research and the design of behavioral interventions."
+    "text": "The Designed for Impact Tool (DIT) is a fillable, collaborative worksheet that helps statisticians and domain experts plan for real-world impact from the start of a project.\nIt guides teams to:\n\nAlign on goals and expectations\nDefine a clear, decision-focused intended impact\nConnect analysis choices to that impact\nCommunicate results in a way that supports action\n\nThe tool is designed to structure conversations that shape both the analysis and how its results are used."
   },
   {
-    "objectID": "examples.html#marketing-campaign-optimization",
-    "href": "examples.html#marketing-campaign-optimization",
-    "title": "Examples",
-    "section": "",
-    "text": "This forthcoming example connects customer-segmentation analysis to budget allocation, campaign planning, and conversion."
+    "objectID": "index.html#why-this-matters",
+    "href": "index.html#why-this-matters",
+    "title": "Designed For Impact",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nAs data science becomes increasingly automated, the value of a statistician is shifting.\nIt’s no longer just about:\n\nRunning models\nInterpreting results\n\nIt’s about:\n\nAsking the right questions\nGuiding stakeholder decisions\nDelivering impact that matters\n\nThis tool helps bridge the knowledge gap between statistical collaborator and domain expert, moving statisticians from analysts to co-creators of impact."
   },
   {
-    "objectID": "examples.html#environmental-attitudes-and-behavior",
-    "href": "examples.html#environmental-attitudes-and-behavior",
-    "title": "Examples",
+    "objectID": "index.html#the-tool",
+    "href": "index.html#the-tool",
+    "title": "Designed For Impact",
+    "section": "The Tool",
+    "text": "The Tool\nThe Designed for Impact Tool (DIT) is a one-page instrument that helps teams define:\n\nVision – What broader goal does this work contribute to?\nPartnership – What makes this collaboration successful?\nImpact – What decision or action should this work enable?\nAnalysis Pathway – What methodological choices are needed to support that impact?\nNarrative – How will results be communicated to drive action?"
+  },
+  {
+    "objectID": "index.html#download-the-tool",
+    "href": "index.html#download-the-tool",
+    "title": "Designed For Impact",
+    "section": "Download the Tool",
+    "text": "Download the Tool\n\n\n\nBlank Template\nView Blank Template\n\n\n\nHow-To Guide\nView How-To Guide\n\n\n\nThe how-to guide provides a one-sentence description for each dimension and 1-2 key questions that statistical collaborators can pose to domain experts.\n\nLast Updated: April 22, 2026 (v6.0)"
+  },
+  {
+    "objectID": "index.html#how-to-use-the-tool",
+    "href": "index.html#how-to-use-the-tool",
+    "title": "Designed For Impact",
+    "section": "How to Use the Tool",
+    "text": "How to Use the Tool\nThe tool is designed to be used across the project lifecycle:\n\nBefore analysis (Q1)\nAlign on goals, context, and intended impact\nDuring analysis (Q2)\nKeep work grounded in stakeholder priorities\nAfter analysis (Q3)\nTranslate results into action and articulate impact\n\nYou can use it:\n\nWith collaborators (as a shared planning document)\nAs a teaching tool in statistics and data science courses or with junior consultants\n\nThe how-to guide provides a one-sentence description for each dimension and 1-2 key questions that statistical collaborators can pose to domain experts."
+  },
+  {
+    "objectID": "index.html#about-this-project",
+    "href": "index.html#about-this-project",
+    "title": "Designed For Impact",
+    "section": "About This Project",
+    "text": "About This Project\nThis website accompanies a master’s thesis focused on improving statistical collaboration and impact.\nThe project:\n\nExtends the QQQ and ASCCR frameworks\nIntroduces structured impact planning conversations to the statistics and data science collaborative workflow\nDevelops and validates a practical consulting tool"
+  },
+  {
+    "objectID": "index.html#get-involved",
+    "href": "index.html#get-involved",
+    "title": "Designed For Impact",
+    "section": "Get Involved",
+    "text": "Get Involved\nIf you are:\n\nA statistician\nA data scientist\nA consultant\nA researcher\nA student\n\nI’d love your feedback.\nFeel free to reach out or use the tool in your own work.\nLearn more about me at my personal website."
+  },
+  {
+    "objectID": "guide-pdf.html",
+    "href": "guide-pdf.html",
+    "title": "How-To Guide",
     "section": "",
-    "text": "This forthcoming example uses complex findings to guide future research and the design of behavioral interventions."
+    "text": "Open PDF in New Tab"
+  },
+  {
+    "objectID": "guide-pdf.html#how-to-guide",
+    "href": "guide-pdf.html#how-to-guide",
+    "title": "How-To Guide",
+    "section": "How-To Guide",
+    "text": "How-To Guide"
+  },
+  {
+    "objectID": "template-pdf.html",
+    "href": "template-pdf.html",
+    "title": "Blank Template",
+    "section": "",
+    "text": "Open PDF in New Tab"
+  },
+  {
+    "objectID": "template-pdf.html#blank-template",
+    "href": "template-pdf.html#blank-template",
+    "title": "Blank Template",
+    "section": "Blank Template",
+    "text": "Blank Template"
+  },
+  {
+    "objectID": "industry.html",
+    "href": "industry.html",
+    "title": "Use In Industry",
+    "section": "",
+    "text": "In industry settings, statistical work is most valuable when it directly informs decisions, operations, and strategy.\nThe Designed for Impact Tool (DIT) helps consultants and data scientists move beyond analysis by:\n\nAligning with business priorities early\nFraming work in terms of decisions and stakeholders\nConnecting models to measurable outcomes\nCommunicating results in a way that drives action\n\nIn this context, impact is often tied to:\n\nRevenue, cost, or efficiency gains\nRisk reduction\nCustomer or user experience improvements\nStrategic positioning\n\nThe examples and prompts below are tailored to help guide these conversations in industry collaborations."
+  },
+  {
+    "objectID": "index.html#explore-use-cases",
+    "href": "index.html#explore-use-cases",
+    "title": "Designed For Impact",
+    "section": "Explore Use Cases",
+    "text": "Explore Use Cases\nThe DIT can be adapted across different collaborative settings.\n\n\n\nUse In Industry\nUse In Industry\n\n\n\nUse In Academia\nUse In Academia"
+  },
+  {
+    "objectID": "academia.html",
+    "href": "academia.html",
+    "title": "Use In Academia",
+    "section": "",
+    "text": "In academic settings, statistical work is most valuable when it contributes to knowledge, understanding, and evidence-based insight.\nThe Designed for Impact Tool (DIT) helps researchers and collaborators:\n\nClarify research goals and broader significance\nAlign analytical work with theoretical and methodological aims\nConnect results to interpretation and contribution\nCommunicate findings in a way that advances understanding\n\nIn this context, impact is often tied to:\n\nAdvancing knowledge within a field\nInforming future research directions\nContributing to theory, methods, or evidence\nSupporting evidence-based decision-making\n\nThe examples and prompts below are tailored to guide these conversations in academic collaborations."
+  },
+  {
+    "objectID": "academia.html#overview",
+    "href": "academia.html#overview",
+    "title": "Use In Academia",
+    "section": "",
+    "text": "In academic settings, statistical work is most valuable when it contributes to knowledge, understanding, and evidence-based insight.\nThe Designed for Impact Tool (DIT) helps researchers and collaborators:\n\nClarify research goals and broader significance\nAlign analytical work with theoretical and methodological aims\nConnect results to interpretation and contribution\nCommunicate findings in a way that advances understanding\n\nIn this context, impact is often tied to:\n\nAdvancing knowledge within a field\nInforming future research directions\nContributing to theory, methods, or evidence\nSupporting evidence-based decision-making\n\nThe examples and prompts below are tailored to guide these conversations in academic collaborations."
+  },
+  {
+    "objectID": "academia.html#vision",
+    "href": "academia.html#vision",
+    "title": "Use In Academia",
+    "section": "Vision",
+    "text": "Vision\nA concise, forward-looking declaration about the long-term goal of the company, department, or team.\nDiscussion Prompts:\n\nWhat broader research area or field does this project contribute to?\nWhat is the long-term scholarly significance of this research?\nWhat societal issues does this research connect to?\nWhat is the “north star” contribution this project aims toward?\nHow does this project fit into a broader research agenda or program?\nWhat would make this work impactful within the academic community or beyond?"
+  },
+  {
+    "objectID": "academia.html#partnership",
+    "href": "academia.html#partnership",
+    "title": "Use In Academia",
+    "section": "Partnership",
+    "text": "Partnership\nHow this engagement builds trust, alignment, and opportunity for future collaboration.\nDiscussion Prompts:\n\nWhat are each collaborator’s roles and expectations in this project?\nWhat would make this collaboration especially productive or rewarding?\nHow will authorship and contributions be determined and communicated?\nWhat are the timelines or deadlines for project milestones (analysis, writing, submission)?\nWhat prior experiences shape expectations for collaboration?\nHow can we ensure transparency and mutual understanding throughout the project?\nWhat opportunities exist for future collaboration or continued work?\nHow can we support each other’s professional goals (e.g., publications, theses, grants)?\nWhat communication norms will help maintain alignment?"
+  },
+  {
+    "objectID": "academia.html#impact",
+    "href": "academia.html#impact",
+    "title": "Use In Academia",
+    "section": "Impact",
+    "text": "Impact\nThe operational, strategic, economic, or knowledge-driven outcome of this collaboration.\nDiscussion Prompts:\n\nWhat specific research question(s) is this project answering?\nWhat type of contribution does this work aim to make (theoretical, methodological, applied)?\nWho is the primary audience for this research (academics, practitioners, policymakers)?\nWhat claims or conclusions should this study support?\nWhat level of evidence is needed to support those claims?\nHow will this work be evaluated (e.g., publication, citation, replication)?\nWhat are the practical or real-world implications of this research?\nWhat uncertainties or limitations are central to the interpretation?\nWhat would make the findings meaningful or influential in the field?\nHow does this work validate or go beyond existing literature?"
+  },
+  {
+    "objectID": "academia.html#evidence-to-impact-strategy",
+    "href": "academia.html#evidence-to-impact-strategy",
+    "title": "Use In Academia",
+    "section": "Evidence To Impact Strategy",
+    "text": "Evidence To Impact Strategy\nHow the analytical approach enables the intended impact.\nDiscussion Prompts:\n\nIs the goal to estimate causal effects, describe relationships, or build predictive models?\nWhat study design best supports the research question (experimental, observational, longitudinal)?\nWhat assumptions are required for valid inference?\nHow will uncertainty be quantified and communicated?\nHow will results be validated or replicated?\nWhat statistical methods align with the theoretical framing of the study?\nHow will data limitations affect interpretation?\nWhat visualizations best support interpretation and communication of results?\nHow will the analysis support clear and defensible conclusions?"
+  },
+  {
+    "objectID": "academia.html#impact-narrative",
+    "href": "academia.html#impact-narrative",
+    "title": "Use In Academia",
+    "section": "Impact Narrative",
+    "text": "Impact Narrative\nHow findings translate to an immediate or future impact on stakeholders or the decisions they need to make.\nDiscussion Prompts:\n\nTo what extent did the findings answer the research question?\nWhat new insights or contributions emerged from this work?\nHow do the findings compare to prior literature?\nWhat limitations affect the interpretation of results?\nWhat future research directions does this work suggest?\nHow were the findings disseminated (e.g., publication, presentation)?\nWho benefits from this knowledge, and how?\nDid the results influence practice, policy, or further study?\nHow did this collaboration contribute to professional development or future opportunities?\nWhat would strengthen the impact of this work in future iterations?"
+  },
+  {
+    "objectID": "academia.html#example-1-environmental-psychology-study",
+    "href": "academia.html#example-1-environmental-psychology-study",
+    "title": "Use In Academia",
+    "section": "Example 1: Environmental Psychology Study",
+    "text": "Example 1: Environmental Psychology Study\nVision\nAdvance understanding of the gap between environmental attitudes and behaviors to inform interventions that promote sustainable action.\nPartnership\nAlign methodological rigor with domain experts’ goals to produce publishable work, with all contributors recognized as co-authors.\nImpact\nProvide evidence on the relationship between environmental concern and actual behavior, contributing to literature on cognitive dissonance and sustainability.\nAnalysis Pathway\nUse regression modeling and survey data analysis to estimate associations between attitudes and behaviors, with careful attention to measurement validity and confounding variables.\nNarrative\nFound a measurable gap between environmental concern and behavior, enabling researchers to design targeted interventions that better align sustainable attitudes with actions."
+  },
+  {
+    "objectID": "academia.html#example-2-clinical-research-collaboration",
+    "href": "academia.html#example-2-clinical-research-collaboration",
+    "title": "Use In Academia",
+    "section": "Example 2: Clinical Research Collaboration",
+    "text": "Example 2: Clinical Research Collaboration\nVision\nImprove patient outcomes by strengthening the evidence base for treatment effectiveness.\nPartnership\nFoster a transparent and rigorous collaboration between statisticians and clinical researchers to support high-quality, publishable research, with team leads as co-authors.\nImpact\nEstimate the effectiveness of a treatment while accounting for confounding factors, contributing to clinical decision-making and medical knowledge.\nAnalysis Pathway\nApply causal inference methods (e.g., propensity score matching or regression adjustment) to observational data, ensuring assumptions are clearly stated and evaluated.\nNarrative\nEquipped clinical researchers with evidence on treatment effectiveness and its limitations, informing their decision to pursue larger clinical trials."
+  },
+  {
+    "objectID": "industry.html#overview",
+    "href": "industry.html#overview",
+    "title": "Use In Industry",
+    "section": "",
+    "text": "In industry settings, statistical work is most valuable when it directly informs decisions, operations, and strategy.\nThe Designed for Impact Tool (DIT) helps consultants and data scientists move beyond analysis by:\n\nAligning with business priorities early\nFraming work in terms of decisions and stakeholders\nConnecting models to measurable outcomes\nCommunicating results in a way that drives action\n\nIn this context, impact is often tied to:\n\nRevenue, cost, or efficiency gains\nRisk reduction\nCustomer or user experience improvements\nStrategic positioning\n\nThe examples and prompts below are tailored to help guide these conversations in industry collaborations."
+  },
+  {
+    "objectID": "industry.html#vision",
+    "href": "industry.html#vision",
+    "title": "Use In Industry",
+    "section": "Vision",
+    "text": "Vision\nA concise, forward-looking declaration about the long-term goal of the company, department, or team.\nDiscussion Prompts:\n\nWhat strategic priority or high-level business objective does this project support?\nHow does this work align with company-wide goals (e.g., growth, retention, sustainability)?\nWhat does success look like at a 1–3 year horizon?\nWhat competitive advantage could this project contribute to?\nHow might this project create value for customers or end-users?\nWhat “north star” metric best reflects long-term success?\nIn moments of uncertainty, what guiding principle should decisions defer to?\nHow does this project fit into broader product, operational, or market strategy?"
+  },
+  {
+    "objectID": "industry.html#partnership",
+    "href": "industry.html#partnership",
+    "title": "Use In Industry",
+    "section": "Partnership",
+    "text": "Partnership\nHow this engagement builds trust, alignment, and opportunity for future collaboration.\nDiscussion Prompts:\n\nWhat would make this collaboration exceptionally valuable to you?\nWhat does “exceeding expectations” look like from your perspective?\nHow do you prefer to receive updates, insights, or deliverables?\nWhat level of involvement do you want throughout the project?\nWhat constraints (time, resources, data access) should we be aware of?\nWhat past experiences (positive or negative) shape your expectations for this project?\nHow can we ensure alignment as priorities evolve?\nWhat might lead to an extension of our scope of work?\nHow can we deliver value early, not just at the end?\nWhat risks (organizational, political, operational) should we be mindful of?\nWhat are the foreseeable costs of being wrong or uncertain?"
+  },
+  {
+    "objectID": "industry.html#impact",
+    "href": "industry.html#impact",
+    "title": "Use In Industry",
+    "section": "Impact",
+    "text": "Impact\nThe operational, strategic, economic, or knowledge-driven outcome of this collaboration.\nDiscussion Prompts:\n\nWhat specific decision(s) will this project inform?\nWho are the primary stakeholders or decision-makers?\nWhat actions should change as a result of this work?\nWhat metrics will reflect whether the project was successful?\nWhat is the expected business value (e.g., revenue increase, cost savings, efficiency)?\nWhat is the cost of being wrong or uncertain in this context?\nWhat level of precision or confidence is required for decision-making?\nHow quickly do decisions need to be made?\nWhat trade-offs (e.g., speed vs accuracy) are acceptable?\nWhat would make this project actionable rather than just informative?"
+  },
+  {
+    "objectID": "industry.html#evidence-to-impact-strategy",
+    "href": "industry.html#evidence-to-impact-strategy",
+    "title": "Use In Industry",
+    "section": "Evidence To Impact Strategy",
+    "text": "Evidence To Impact Strategy\nHow the analytical approach enables the intended impact.\nDiscussion Prompts:\n\nIs the primary goal prediction (forecasting outcomes) or inference (understanding drivers)?\nWhat level of model complexity is appropriate for the business context?\nHow will results be translated into decisions (e.g., thresholds, rankings, recommendations)?\nWhat format of output is most useful (dashboard, score, rule, report)?\nWhat data limitations or biases could affect decisions?\nHow will uncertainty be communicated to stakeholders?\nWhat assumptions must hold for the analysis to be useful?\nHow will this integrate into existing workflows or systems?\nWhat is the plan for monitoring or updating the model over time?\nHow can we make results interpretable to non-technical stakeholders?"
+  },
+  {
+    "objectID": "industry.html#impact-narrative",
+    "href": "industry.html#impact-narrative",
+    "title": "Use In Industry",
+    "section": "Impact Narrative",
+    "text": "Impact Narrative\nHow findings translate to an immediate or future impact on stakeholders or the decisions they need to make.\nDiscussion Prompts:\n\nWhat changed as a result of this project?\nWere decisions actually made using the results? If not, why?\nWhat measurable outcomes were observed (e.g., lift, savings, adoption)?\nHow did this project contribute to business goals or KPIs?\nWhat barriers prevented full realization of impact?\nWhat follow-up actions or projects emerged?\nHow did this work strengthen the client relationship?\nWhat would we do differently next time to increase impact?\nHow did this project contribute to the broader vision?\nWhat is the long-term value created by this work?"
+  },
+  {
+    "objectID": "industry.html#example-1-marketing-campaign-optimization",
+    "href": "industry.html#example-1-marketing-campaign-optimization",
+    "title": "Use In Industry",
+    "section": "Example 1: Marketing Campaign Optimization",
+    "text": "Example 1: Marketing Campaign Optimization\nVision\nImprove customer engagement and lifetime value through more personalized and effective marketing strategies.\nPartnership\nDeliver actionable insights quickly to support campaign planning cycles and build trust with the marketing team as a strategic partner.\nImpact\nEnable the marketing team to allocate budget across channels and segments to maximize conversion rates and ROI.\nAnalysis Pathway\nDevelop predictive models to estimate conversion probability across customer segments, paired with interpretable visualizations to guide budget allocation decisions.\nNarrative\nThe model identified high-value customer segments with significantly higher conversion likelihood. Marketing shifted budget toward these segments, resulting in a measurable increase in campaign ROI and improved collaboration between analytics and marketing teams."
+  },
+  {
+    "objectID": "industry.html#example-2-supply-chain-demand-forecasting",
+    "href": "industry.html#example-2-supply-chain-demand-forecasting",
+    "title": "Use In Industry",
+    "section": "Example 2: Supply Chain Demand Forecasting",
+    "text": "Example 2: Supply Chain Demand Forecasting\nVision\nIncrease operational efficiency and reduce waste through more accurate and responsive demand forecasting.\nPartnership\nSupport the operations team in making timely decisions to strengthen trust with stakeholders and create opportunities for continued inter-departmental collaboration.\nImpact\nEnable inventory and production decisions that reduce stockouts and overstock, improving service levels and reducing costs.\nAnalysis Pathway\nBuild time-series forecasting models with uncertainty estimates, delivered through a dashboard that supports scenario planning and operational decision-making.\nNarrative\nImproved forecast accuracy allowed operations teams to better align inventory with demand, reducing excess inventory and minimizing stockouts. The forecasting system became a core input to planning meetings, strengthening the role of data in operational decisions."
+  },
+  {
+    "objectID": "background.html",
+    "href": "background.html",
+    "title": "A Brief Background",
+    "section": "",
+    "text": "The need for impact-centric consulting\nThe ASCCR and QQQ frameworks have demonstrated the importance of effective partnership between statisticians and domain experts. These frameworks, however, do not yet provide structure for planning and evaluating impact within statistical collaboration.\nAs the technical barriers to statistical analysis are lowered with the advent of AI, the role of the statistician is shifting. There is a growing need for practitioners who can leverage collaborative competencies to translate evidence into action. This requires planning for impact from the outset and making deep contributions to the domain problem.\nThe Designed For Impact Tool is a fillable worksheet that supports this process. It allows statisticians and domain experts to co-create impact by focusing on five key dimensions of a project: Vision, Partnership, Impact, Analysis Pathway, and Narrative. You don’t need to memorize these – that’s why we created the tool. However, if statisticians meaningfully address each of these dimensions, we believe the result will be more intentional, cohesive, and impactful collaboration.\n\n\n\nStatistical foundations\nThe QQQ framework was first introduced by Leman et al. (2015) as a paradigm for learning and teaching data analytics and later expanded by Vance et al. (2025) to guide discussions of technical material with interdisciplinary collaborators. QQQ operates within the Content component of the broader ASCCR framework (Attitude, Structure, Content, Communication, Relationship) developed by Vance and Smith (2019), which helps move practitioners from good collaborators to great collaborators.\nThese frameworks provide a strong foundation for statistical consulting, and we’re taking the opportunity to extend this work by bolstering Q1, Q2, and Q3, as well as introducing a retrospective step at project close-out. The Designed For Impact Tool is rooted in these existing frameworks and scaffolds new conversations between statisticians and domain experts – conversations that move beyond the research question and interpretation of statistical results to explicitly connect analysis to action.\n\n\n\n\n\n\n\nDesign foundations\nAcross industry, structured frameworks are widely used to navigate complex, multi-dimensional problems. One well-known example is the SWOT analysis (Strengths, Weaknesses, Opportunities, Threats), introduced by Stewart et al. (1965) to support strategic planning. These tools serve a common purpose: to reduce cognitive load. By breaking complex problems into distinct components, they help practitioners avoid overlooking critical elements and apply more systematic thinking.\nThe Designed For Impact Tool follows this same principle. Statistical consulting projects are inherently complex – they require tremendous context building, intentional methodological decisions, and clear communication to non-experts. Each project presents an opportunity to make a deep contribution to a collaborator’s domain, but doing so requires thoughtful planning. The Designed For Impact Tool facilitates problem disaggregation and is tailored to the needs of statistical collaborators.\n\n\n\n\n\n\n\nConclusion\nThe Designed For Impact Tool is a collaborative scaffolding tool for translating evidence into action. It takes the form of a fillable worksheet, similar to many tools used in organizational and strategic contexts, but it is specifically designed for statistical collaboration. The dimensions of the tool (Vision, Partnership, Impact, Analysis Pathway, and Narrative) were developed inductively and are grounded in the ASCCR and QQQ frameworks. Together, they guide statisticians and domain experts toward more intentional, aligned, and impactful partnerships. \nUsed throughout the lifecycle of a project, the Designed For Impact Tool helps transform consulting from a collection of disjointed tasks into a cohesive, impact-oriented, iterative process. It supports deeper contributions to the collaborator’s domain, strengthens communication of value, and integrates cleanly into the statistician’s existing workflow."
+  },
+  {
+    "objectID": "background.html#a-brief-background",
+    "href": "background.html#a-brief-background",
+    "title": "Background",
+    "section": "",
+    "text": "The ASCCR and QQQ frameworks have demonstrated the importance of effective partnership between statisticians and domain experts. These frameworks, however, do not yet provide structure for planning and evaluating impact within statistical collaboration.\nAs the technical barriers to statistical analysis are lowered with the advent of AI, the role of the statistician is shifting. There is a growing need for practitioners who can leverage collaborative competencies to translate evidence into action. This requires planning for impact from the outset and making deep contributions to the domain problem.\nThe Designed For Impact Tool is a fillable worksheet that supports this process. It allows statisticians and domain experts to co-create impact by focusing on five key dimensions of a project: Vision, Partnership, Impact, Analysis Pathway, and Narrative. You don’t need to memorize these – that’s why we created the tool. However, if statisticians meaningfully address each of these dimensions, we believe the result will be more intentional, cohesive, and impactful collaboration.\n\n\n\nThe QQQ framework was first introduced by Leman et al. (2015) as a paradigm for learning and teaching data analytics and later expanded by Vance et al. (2025) to guide discussions of technical material with interdisciplinary collaborators. QQQ operates within the Content component of the broader ASCCR framework (Attitude, Structure, Content, Communication, Relationship) developed by Vance and Smith (2019), which helps move practitioners from good collaborators to great collaborators.\nThese frameworks provide a strong foundation for statistical consulting, and we’re taking the opportunity to extend this work by bolstering Q1, Q2, and Q3, as well as introducing a retrospective step at project close-out. The Designed For Impact Tool is rooted in these existing frameworks and scaffolds new conversations between statisticians and domain experts – conversations that move beyond the research question and interpretation of statistical results to explicitly connect analysis to action.\n\n\n\nAcross industry, structured frameworks are widely used to navigate complex, multi-dimensional problems. One well-known example is the SWOT analysis (Strengths, Weaknesses, Opportunities, Threats), introduced by Stewart et al. (1965) to support strategic planning. These tools serve a common purpose: to reduce cognitive load. By breaking complex problems into distinct components, they help practitioners avoid overlooking critical elements and apply more systematic thinking.\nThe Designed For Impact Tool follows this same principle. Statistical consulting projects are inherently complex – they require tremendous context building, intentional methodological decisions, and clear communication to non-experts. Each project presents an opportunity to make a deep contribution to a collaborator’s domain, but doing so requires thoughtful planning. The Designed For Impact Tool facilitates problem disaggregation and is tailored to the needs of statistical collaborators.\n\n\n\nThe Designed For Impact Tool is a collaborative scaffolding tool for translating evidence into action. It takes the form of a fillable worksheet, similar to many tools used in organizational and strategic contexts, but it is specifically designed for statistical collaboration. The dimensions of the tool (Vision, Partnership, Impact, Analysis Pathway, and Narrative) were developed inductively and are grounded in the ASCCR and QQQ frameworks. Together, they guide statisticians and domain experts toward more intentional, aligned, and impactful partnerships. \nUsed throughout the lifecycle of a project, the Designed For Impact Tool helps transform consulting from a collection of disjointed tasks into a cohesive, impact-oriented process. It supports deeper contributions to the collaborator’s domain, strengthens communication of value, and integrates cleanly into the statistician’s existing workflow."
+  },
+  {
+    "objectID": "industry.html#analysis-pathway",
+    "href": "industry.html#analysis-pathway",
+    "title": "Use In Industry",
+    "section": "Analysis Pathway",
+    "text": "Analysis Pathway\nHow the analytical approach enables the intended impact.\nDiscussion Prompts:\n\nIs the primary goal prediction (forecasting outcomes) or inference (understanding drivers)?\nWhat level of model complexity is appropriate for the business context?\nHow will results be translated into decisions (e.g., thresholds, rankings, recommendations)?\nWhat format of output is most useful (dashboard, score, rule, report)?\nWhat data limitations or biases could affect decisions?\nHow will uncertainty be communicated to stakeholders?\nWhat assumptions must hold for the analysis to be useful?\nHow will this integrate into existing workflows or systems?\nWhat is the plan for monitoring or updating the model over time?\nHow can we make results interpretable to non-technical stakeholders?"
+  },
+  {
+    "objectID": "industry.html#narrative",
+    "href": "industry.html#narrative",
+    "title": "Use In Industry",
+    "section": "Narrative",
+    "text": "Narrative\nHow findings translate to an immediate or future impact on stakeholders or the decisions they need to make.\nDiscussion Prompts:\n\nWhat changed as a result of this project?\nWere decisions actually made using the results? If not, why?\nWhat measurable outcomes were observed (e.g., lift, savings, adoption)?\nHow did this project contribute to business goals or KPIs?\nWhat barriers prevented full realization of impact?\nWhat follow-up actions or projects emerged?\nHow did this work strengthen the client relationship?\nWhat would we do differently next time to increase impact?\nHow did this project contribute to the broader vision?\nWhat is the long-term value created by this work?"
+  },
+  {
+    "objectID": "academia.html#analysis-pathway",
+    "href": "academia.html#analysis-pathway",
+    "title": "Use In Academia",
+    "section": "Analysis Pathway",
+    "text": "Analysis Pathway\nHow the analytical approach enables the intended impact.\nDiscussion Prompts:\n\nIs the goal to estimate causal effects, describe relationships, or build predictive models?\nWhat study design best supports the research question (experimental, observational, longitudinal)?\nWhat assumptions are required for valid inference?\nHow will uncertainty be quantified and communicated?\nHow will results be validated or replicated?\nWhat statistical methods align with the theoretical framing of the study?\nHow will data limitations affect interpretation?\nWhat visualizations best support interpretation and communication of results?\nHow will the analysis support clear and defensible conclusions?"
+  },
+  {
+    "objectID": "academia.html#narrative",
+    "href": "academia.html#narrative",
+    "title": "Use In Academia",
+    "section": "Narrative",
+    "text": "Narrative\nHow findings translate to an immediate or future impact on stakeholders or the decisions they need to make.\nDiscussion Prompts:\n\nTo what extent did the findings answer the research question?\nWhat new insights or contributions emerged from this work?\nHow do the findings compare to prior literature?\nWhat limitations affect the interpretation of results?\nWhat future research directions does this work suggest?\nHow were the findings disseminated (e.g., publication, presentation)?\nWho benefits from this knowledge, and how?\nDid the results influence practice, policy, or further study?\nHow did this collaboration contribute to professional development or future opportunities?\nWhat would strengthen the impact of this work in future iterations?"
   }
 ]

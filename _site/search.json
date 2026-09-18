@@ -1,0 +1,268 @@
+[
+  {
+    "objectID": "template-pdf.html",
+    "href": "template-pdf.html",
+    "title": "Blank Template",
+    "section": "",
+    "text": "Back to Home\nOpen PDF in New Tab"
+  },
+  {
+    "objectID": "template-pdf.html#blank-template",
+    "href": "template-pdf.html#blank-template",
+    "title": "Blank Template",
+    "section": "Blank Template",
+    "text": "Blank Template"
+  },
+  {
+    "objectID": "industry.html",
+    "href": "industry.html",
+    "title": "Use In Industry",
+    "section": "",
+    "text": "In industry settings, statistical work is most valuable when it directly informs decisions, operations, and strategy.\nThe Designed for Impact Tool (DIT) helps consultants and data scientists move beyond analysis by:\n\nAligning with business priorities early\n\nFraming work in terms of decisions and stakeholders\n\nConnecting models to measurable outcomes\n\nCommunicating results in a way that drives action\n\nIn this context, impact is often tied to:\n\nRevenue, cost, or efficiency gains\n\nRisk reduction\n\nCustomer or user experience improvements\n\nStrategic positioning\n\nThe prompts below are tailored to help guide these conversations in industry collaborations."
+  },
+  {
+    "objectID": "guide-pdf.html",
+    "href": "guide-pdf.html",
+    "title": "How-To Guide",
+    "section": "",
+    "text": "Back to Home\nOpen PDF in New Tab"
+  },
+  {
+    "objectID": "guide-pdf.html#how-to-guide",
+    "href": "guide-pdf.html#how-to-guide",
+    "title": "How-To Guide",
+    "section": "How-To Guide",
+    "text": "How-To Guide"
+  },
+  {
+    "objectID": "academia.html",
+    "href": "academia.html",
+    "title": "Use In Academia",
+    "section": "",
+    "text": "In academic settings, statistical work is most valuable when it contributes to knowledge, understanding, and evidence-based insight.\nThe Designed for Impact Tool (DIT) helps researchers and collaborators:\n\nClarify research goals and broader significance\n\nAlign analytical work with theoretical and methodological aims\n\nConnect results to interpretation and contribution\n\nCommunicate findings in a way that advances understanding\n\nIn this context, impact is often tied to:\n\nAdvancing knowledge within a field\n\nInforming future research directions\n\nContributing to theory, methods, or evidence\n\nSupporting evidence-based decision-making\n\nThe prompts below are tailored to guide these conversations in academic collaborations."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Designed For Impact",
+    "section": "",
+    "text": "Statistical consulting is not just about producing correct analyses — It’s about creating meaningful, real-world impact.\nThis project introduces a structured workflow and tool to help statisticians and data scientists:\n\nAlign with stakeholders early in a project\nTranslate analysis into an impact narrative\nClearly communicate the impact of their work"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Designed For Impact",
+    "section": "",
+    "text": "Statistical consulting is not just about producing correct analyses — It’s about creating meaningful, real-world impact.\nThis project introduces a structured workflow and tool to help statisticians and data scientists:\n\nAlign with stakeholders early in a project\nTranslate analysis into an impact narrative\nClearly communicate the impact of their work"
+  },
+  {
+    "objectID": "index.html#why-this-matters",
+    "href": "index.html#why-this-matters",
+    "title": "Designed For Impact",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nAs data science becomes increasingly automated, the value of a statistician is shifting.\nIt’s no longer just about:\n\nRunning models\nInterpreting results\n\nIt’s about:\n\nAsking the right questions\nGuiding stakeholder decisions\nDelivering impact that matters\n\nThis tool helps bridge the gap between analysis and action."
+  },
+  {
+    "objectID": "index.html#the-tool",
+    "href": "index.html#the-tool",
+    "title": "Designed For Impact",
+    "section": "The Tool",
+    "text": "The Tool\nThe Designed for Impact Tool (DIT) is a one-page framework designed to support:\n\nImpact Planning (before and during a project)\nImpact Evaluation (at project completion)\nClear communication with collaborators\n\nIt helps teams define:\n\nA vision (the broader impact)\nA partnership (how collaboration creates value)\nAn impact (what the analysis enables)\nAn intentional analysis pathway (how the methodology enables the impact)\nA result statement (a concise summary of impact)"
+  },
+  {
+    "objectID": "index.html#download-the-tool",
+    "href": "index.html#download-the-tool",
+    "title": "Designed For Impact",
+    "section": "Download the Tool",
+    "text": "Download the Tool\n\n\n\nBlank Template\nView Blank Template\n\n\n\nHow-To Guide\nView How-To Guide\n\n\n\n\nLast Updated: March 22, 2026 (v5.2)"
+  },
+  {
+    "objectID": "index.html#how-to-use-the-tool",
+    "href": "index.html#how-to-use-the-tool",
+    "title": "Designed For Impact",
+    "section": "How to Use the Tool",
+    "text": "How to Use the Tool\nThe tool is designed to be used across the project lifecycle:\n\nBefore analysis (Q1)\nAlign on goals, context, and intended impact\nDuring analysis (Q2)\nKeep work grounded in stakeholder priorities\nAfter analysis (Q3)\nTranslate results into action and articulate impact\n\nYou can use it:\n\nWith collaborators (as a shared planning document)\nAs a teaching tool in statistics and data science courses or with junior consultants\n\nThe how-to guide provides a one-sentence description for each dimension and 1-2 key questions that statistical collaborators can pose to domain experts."
+  },
+  {
+    "objectID": "index.html#explore-use-cases",
+    "href": "index.html#explore-use-cases",
+    "title": "Designed For Impact",
+    "section": "Explore Use Cases",
+    "text": "Explore Use Cases\nThe DIT can be adapted across different collaborative settings.\n\n\n\nUse In Industry\nUse In Industry\n\n\n\nUse In Academia\nUse In Academia"
+  },
+  {
+    "objectID": "index.html#about-this-project",
+    "href": "index.html#about-this-project",
+    "title": "Designed For Impact",
+    "section": "About This Project",
+    "text": "About This Project\nThis website accompanies a master’s thesis focused on improving statistical collaboration and impact.\nThe project:\n\nExtends the QQQ and ASCCR frameworks\nIntroduces structured impact planning conversations\nDevelops and evaluates a practical consulting tool\n\nFuture pages will include:\n\nExpanded discussion prompts\nIndustry-specific adaptations\nExample use cases"
+  },
+  {
+    "objectID": "index.html#get-involved",
+    "href": "index.html#get-involved",
+    "title": "Designed For Impact",
+    "section": "Get Involved",
+    "text": "Get Involved\nIf you are:\n\nA statistician\nA data scientist\nA consultant\nA researcher\nA student\n\nI’d love your feedback.\nFeel free to reach out or use the tool in your own work.\nLearn more about me at my personal website."
+  },
+  {
+    "objectID": "industry.html#overview",
+    "href": "industry.html#overview",
+    "title": "Use In Industry",
+    "section": "",
+    "text": "In industry settings, statistical work is most valuable when it directly informs decisions, operations, and strategy.\nThe Designed for Impact Tool (DIT) helps consultants and data scientists move beyond analysis by:\n\nAligning with business priorities early\n\nFraming work in terms of decisions and stakeholders\n\nConnecting models to measurable outcomes\n\nCommunicating results in a way that drives action\n\nIn this context, impact is often tied to:\n\nRevenue, cost, or efficiency gains\n\nRisk reduction\n\nCustomer or user experience improvements\n\nStrategic positioning\n\nThe prompts below are tailored to help guide these conversations in industry collaborations."
+  },
+  {
+    "objectID": "industry.html#dimension-1-vision",
+    "href": "industry.html#dimension-1-vision",
+    "title": "Industry",
+    "section": "Dimension 1: Vision",
+    "text": "Dimension 1: Vision\nWhat is the broader impact this project is contributing to?\n\nIndustry-Specific Discussion Prompts\n\nWhat strategic priority does this project align with (e.g., growth, efficiency, retention)?\nWhat business problem are we ultimately trying to solve?\nWhat does success look like at the organizational level (not just the project level)?\nHow does this project create value for customers, users, or stakeholders?\nWhat is the “North Star” metric this project contributes to?\nHow would leadership describe the importance of this work?\nIf this project is wildly successful, what changes in the business?\nHow does this project fit into the company’s long-term strategy?\nWhat trade-offs are we willing (or not willing) to make?\nWhat would make this project worth the investment of time and resources?"
+  },
+  {
+    "objectID": "industry.html#dimension-2-task",
+    "href": "industry.html#dimension-2-task",
+    "title": "Industry",
+    "section": "Dimension 2: Task",
+    "text": "Dimension 2: Task\nWhat decision or action will this work inform?\n\nIndustry-Specific Discussion Prompts\n\nWhat specific decision will this analysis support?\nWho is the decision-maker?\nWhat options are currently being considered?\nWhat would someone do differently after seeing the results?\nWhat is the timeline for this decision?\nWhat level of certainty is needed to act?\nWhat are the risks of making the wrong decision?\nWhat constraints (budget, operations, policy) affect this decision?\nWhat does a “useful” answer look like to stakeholders?\nHow will this analysis fit into existing workflows or processes?"
+  },
+  {
+    "objectID": "industry.html#dimension-3-data-analysis",
+    "href": "industry.html#dimension-3-data-analysis",
+    "title": "Industry",
+    "section": "Dimension 3: Data & Analysis",
+    "text": "Dimension 3: Data & Analysis\nWhat evidence is needed to support the task?\n\nIndustry-Specific Discussion Prompts\n\nWhat data is currently available? What is missing?\nHow reliable and representative is the data?\nWhat assumptions are we making?\nWhat level of complexity is appropriate given the decision context?\nHow quickly do we need results vs. how precise do they need to be?\nWhat alternative approaches could we take?\nWhat metrics best capture the outcome of interest?\nHow will we validate or stress-test our findings?\nWhat biases or limitations should we be aware of?\nHow will results be communicated to non-technical stakeholders?"
+  },
+  {
+    "objectID": "industry.html#dimension-4-result",
+    "href": "industry.html#dimension-4-result",
+    "title": "Industry",
+    "section": "Dimension 4: Result",
+    "text": "Dimension 4: Result\nHow will results be translated into action?\n\nIndustry-Specific Discussion Prompts\n\nWhat is the key takeaway for stakeholders?\nHow should the results influence the decision?\nWhat recommendations follow from the analysis?\nWhat is the expected impact of acting on these results?\nHow confident are we, and how should uncertainty be communicated?\nWhat are the risks of acting vs. not acting?\nHow will results be presented (dashboard, memo, presentation)?\nWhat follow-up analyses or experiments are needed?\nHow will we measure whether the decision was successful?\nWhat does “implementation” actually look like?"
+  },
+  {
+    "objectID": "industry.html#dimension-5-partnership",
+    "href": "industry.html#dimension-5-partnership",
+    "title": "Industry",
+    "section": "Dimension 5: Partnership",
+    "text": "Dimension 5: Partnership\nHow does this engagement build trust and future collaboration?\n\nIndustry-Specific Discussion Prompts\n\nWhat does success look like from the stakeholder’s perspective?\nHow can we exceed expectations in this collaboration?\nWhat communication style works best for this stakeholder?\nHow frequently should we check in or provide updates?\nWhat level of involvement does the stakeholder want?\nWhat past experiences shape this stakeholder’s expectations?\nHow can we make our work more accessible and actionable?\nWhat would make this stakeholder want to work with us again?\nHow do we ensure alignment throughout the project (not just at the start)?\nWhat opportunities does this project create for future collaboration?"
+  },
+  {
+    "objectID": "industry.html#example-1-marketing-campaign-optimization",
+    "href": "industry.html#example-1-marketing-campaign-optimization",
+    "title": "Use In Industry",
+    "section": "Example 1: Marketing Campaign Optimization",
+    "text": "Example 1: Marketing Campaign Optimization\nVision\nImprove customer engagement and lifetime value through more personalized and effective marketing strategies.\nPartnership\nDeliver actionable insights quickly to support campaign planning cycles and build trust with the marketing team as a strategic partner.\nImpact\nEnable the marketing team to allocate budget across channels and segments to maximize conversion rates and ROI.\nEvidence To Impact Strategy\nDevelop predictive models to estimate conversion probability across customer segments, paired with interpretable visualizations to guide budget allocation decisions.\nImpact Narrative\nThe model identified high-value customer segments with significantly higher conversion likelihood. Marketing shifted budget toward these segments, resulting in a measurable increase in campaign ROI and improved collaboration between analytics and marketing teams."
+  },
+  {
+    "objectID": "industry.html#example-2-supply-chain-efficiency",
+    "href": "industry.html#example-2-supply-chain-efficiency",
+    "title": "Industry",
+    "section": "Example 2: Supply Chain Efficiency",
+    "text": "Example 2: Supply Chain Efficiency\nVision\nReduce operational costs while maintaining or improving delivery reliability.\nTask\nDetermine optimal inventory levels and reorder strategies across distribution centers.\nData & Analysis\nUse historical demand data, lead times, and variability to build forecasting models and simulate inventory policies.\nResult\nRecommend updated reorder points and safety stock levels projected to reduce stockouts by 20% and holding costs by 10%.\nPartnership\nCollaborate closely with operations managers to ensure recommendations are practical and aligned with logistical constraints."
+  },
+  {
+    "objectID": "industry.html#closing-thought",
+    "href": "industry.html#closing-thought",
+    "title": "Industry",
+    "section": "Closing Thought",
+    "text": "Closing Thought\nIn industry, impact is ultimately measured by better decisions and better outcomes.\nThe DIT helps ensure that statistical work is not just technically correct — but strategically relevant, actionable, and valued."
+  },
+  {
+    "objectID": "industry.html#vision",
+    "href": "industry.html#vision",
+    "title": "Use In Industry",
+    "section": "Vision",
+    "text": "Vision\nA concise, forward-looking declaration about the long-term goal of the company, department, or team.\nDiscussion Prompts:\n\nWhat strategic priority or business objective does this project support?\nHow does this work align with company-wide goals (e.g., growth, retention, sustainability)?\nWhat does success look like at a 1–3 year horizon?\nWhat competitive advantage could this project contribute to?\nHow might this project create value for customers or end-users?\nWhat “North Star” metric best reflects long-term success?\nIn moments of uncertainty, what guiding principle should decisions defer to?\nHow does this project fit into broader product, operational, or market strategy?\nWhat would leadership consider a “home run” outcome for this initiative?"
+  },
+  {
+    "objectID": "industry.html#partnership",
+    "href": "industry.html#partnership",
+    "title": "Use In Industry",
+    "section": "Partnership",
+    "text": "Partnership\nHow this engagement builds trust, alignment, and opportunity for future collaboration.\nDiscussion Prompts:\n\nWhat would make this collaboration exceptionally valuable to you?\nWhat does “exceeding expectations” look like from your perspective?\nHow do you prefer to receive updates, insights, or deliverables?\nWhat level of involvement do you want throughout the project?\nWhat constraints (time, resources, data access) should we be aware of?\nWhat past experiences (positive or negative) shape your expectations of data work?\nHow can we ensure alignment as priorities evolve?\nWhat would make you want to work together again on future projects?\nHow can we deliver value early, not just at the end?\nWhat risks (organizational, political, operational) should we be mindful of?"
+  },
+  {
+    "objectID": "industry.html#impact",
+    "href": "industry.html#impact",
+    "title": "Use In Industry",
+    "section": "Impact",
+    "text": "Impact\nThe operational, strategic, economic, or knowledge-driven outcome of this collaboration.\nDiscussion Prompts:\n\nWhat specific decision(s) will this project inform?\nWho are the primary stakeholders or decision-makers?\nWhat actions should change as a result of this work?\nWhat metrics will reflect whether the project was successful?\nWhat is the expected business value (e.g., revenue increase, cost savings, efficiency)?\nWhat is the cost of being wrong or uncertain in this context?\nWhat level of precision or confidence is required for decision-making?\nHow quickly do decisions need to be made?\nWhat trade-offs (e.g., speed vs accuracy) are acceptable?\nWhat would make this project actionable rather than just informative?"
+  },
+  {
+    "objectID": "industry.html#evidence-to-impact-strategy",
+    "href": "industry.html#evidence-to-impact-strategy",
+    "title": "Use In Industry",
+    "section": "Evidence To Impact Strategy",
+    "text": "Evidence To Impact Strategy\nHow the analytical approach enables the intended impact.\nDiscussion Prompts:\n\nIs the primary goal prediction (forecasting outcomes) or inference (understanding drivers)?\nWhat level of model complexity is appropriate for the business context?\nHow will results be translated into decisions (e.g., thresholds, rankings, recommendations)?\nWhat format of output is most useful (dashboard, score, rule, report)?\nWhat data limitations or biases could affect decisions?\nHow will uncertainty be communicated to stakeholders?\nWhat assumptions must hold for the analysis to be useful?\nHow will this integrate into existing workflows or systems?\nWhat is the plan for monitoring or updating the model over time?\nHow can we make results interpretable to non-technical stakeholders?"
+  },
+  {
+    "objectID": "industry.html#impact-narrative",
+    "href": "industry.html#impact-narrative",
+    "title": "Use In Industry",
+    "section": "Impact Narrative",
+    "text": "Impact Narrative\nHow findings translate to an immediate or future impact on stakeholders or the decisions they need to make.\nDiscussion Prompts:\n\nWhat changed as a result of this project?\nWere decisions actually made using the results? If not, why?\nWhat measurable outcomes were observed (e.g., lift, savings, adoption)?\nHow did this project contribute to business goals or KPIs?\nWhat barriers prevented full realization of impact?\nWhat follow-up actions or projects emerged?\nHow did this work strengthen the client relationship?\nWhat would we do differently next time to increase impact?\nHow did this project contribute to the broader vision?\nWhat is the long-term value created by this work?"
+  },
+  {
+    "objectID": "industry.html#example-2-supply-chain-demand-forecasting",
+    "href": "industry.html#example-2-supply-chain-demand-forecasting",
+    "title": "Use In Industry",
+    "section": "Example 2: Supply Chain Demand Forecasting",
+    "text": "Example 2: Supply Chain Demand Forecasting\nVision\nIncrease operational efficiency and reduce waste through more accurate and responsive demand forecasting.\nPartnership\nProvide reliable, easy-to-use forecasts that integrate into existing planning workflows and support ongoing collaboration with operations teams.\nImpact\nEnable inventory and production decisions that reduce stockouts and overstock, improving service levels and reducing costs.\nEvidence To Impact Strategy\nBuild time-series forecasting models with uncertainty estimates, delivered through a dashboard that supports scenario planning and operational decision-making.\nImpact Narrative\nImproved forecast accuracy allowed operations teams to better align inventory with demand, reducing excess inventory and minimizing stockouts. The forecasting system became a core input to planning meetings, strengthening the role of data in operational decisions."
+  },
+  {
+    "objectID": "academia.html#overview",
+    "href": "academia.html#overview",
+    "title": "Use In Academia",
+    "section": "",
+    "text": "In academic settings, statistical work is most valuable when it contributes to knowledge, understanding, and evidence-based insight.\nThe Designed for Impact Tool (DIT) helps researchers and collaborators:\n\nClarify research goals and broader significance\n\nAlign analytical work with theoretical and methodological aims\n\nConnect results to interpretation and contribution\n\nCommunicate findings in a way that advances understanding\n\nIn this context, impact is often tied to:\n\nAdvancing knowledge within a field\n\nInforming future research directions\n\nContributing to theory, methods, or evidence\n\nSupporting evidence-based decision-making\n\nThe prompts below are tailored to guide these conversations in academic collaborations."
+  },
+  {
+    "objectID": "academia.html#vision",
+    "href": "academia.html#vision",
+    "title": "Use In Academia",
+    "section": "Vision",
+    "text": "Vision\nA concise, forward-looking declaration about the long-term goal of the company, department, or team.\nDiscussion Prompts:\n\nWhat broader research area or field does this project contribute to?\nWhat gap in knowledge is this project addressing?\nHow might this work advance theory, methodology, or empirical understanding?\nWhat is the long-term scholarly significance of this research?\nHow could this work influence future studies or lines of inquiry?\nWhat societal or policy-relevant issues does this research connect to?\nWhat is the “North Star” contribution this project aims toward?\nHow does this project fit into a broader research agenda or program?\nWhat would make this work impactful within the academic community?"
+  },
+  {
+    "objectID": "academia.html#partnership",
+    "href": "academia.html#partnership",
+    "title": "Use In Academia",
+    "section": "Partnership",
+    "text": "Partnership\nHow this engagement builds trust, alignment, and opportunity for future collaboration.\nDiscussion Prompts:\n\nWhat are each collaborator’s roles and expectations in this project?\nWhat would make this collaboration especially productive or rewarding?\nHow will authorship and contributions be determined and communicated?\nWhat are the timelines for key milestones (analysis, writing, submission)?\nHow will decisions be made when there is disagreement?\nWhat prior experiences shape expectations for collaboration?\nHow can we ensure transparency and mutual understanding throughout the project?\nWhat opportunities exist for future collaboration or continued work?\nHow can we support each other’s professional goals (e.g., publications, theses, grants)?\nWhat communication norms will help maintain alignment?"
+  },
+  {
+    "objectID": "academia.html#impact",
+    "href": "academia.html#impact",
+    "title": "Use In Academia",
+    "section": "Impact",
+    "text": "Impact\nThe operational, strategic, economic, or knowledge-driven outcome of this collaboration.\nDiscussion Prompts:\n\nWhat specific research question(s) is this project answering?\nWhat type of contribution does this work aim to make (theoretical, methodological, applied)?\nWho is the primary audience for this research (academics, practitioners, policymakers)?\nWhat claims or conclusions should this study support?\nWhat level of evidence is needed to support those claims?\nHow will this work be evaluated (e.g., publication, citation, replication)?\nWhat are the practical or real-world implications of this research?\nWhat uncertainties or limitations are central to the interpretation?\nWhat would make the findings meaningful or influential in the field?\nHow does this work connect to existing literature?"
+  },
+  {
+    "objectID": "academia.html#evidence-to-impact-strategy",
+    "href": "academia.html#evidence-to-impact-strategy",
+    "title": "Use In Academia",
+    "section": "Evidence To Impact Strategy",
+    "text": "Evidence To Impact Strategy\nHow the analytical approach enables the intended impact.\nDiscussion Prompts:\n\nIs the goal to estimate causal effects, describe relationships, or build predictive models?\nWhat study design best supports the research question (experimental, observational, longitudinal)?\nWhat assumptions are required for valid inference?\nHow will uncertainty be quantified and communicated?\nWhat robustness checks or sensitivity analyses are needed?\nHow will results be validated or replicated?\nWhat statistical methods align with the theoretical framing of the study?\nHow will data limitations affect interpretation?\nWhat visualizations best support interpretation and communication of results?\nHow will the analysis support clear and defensible conclusions?"
+  },
+  {
+    "objectID": "academia.html#impact-narrative",
+    "href": "academia.html#impact-narrative",
+    "title": "Use In Academia",
+    "section": "Impact Narrative",
+    "text": "Impact Narrative\nHow findings translate to an immediate or future impact on stakeholders or the decisions they need to make.\nDiscussion Prompts:\n\nTo what extent did the findings answer the research question?\nWhat new insights or contributions emerged from this work?\nHow do the findings compare to prior literature?\nWhat limitations affect the interpretation of results?\nWhat future research directions does this work suggest?\nHow were the findings disseminated (e.g., publication, presentation)?\nWho benefits from this knowledge, and how?\nDid the results influence practice, policy, or further study?\nHow did this collaboration contribute to professional development or future opportunities?\nWhat would strengthen the impact of this work in future iterations?"
+  },
+  {
+    "objectID": "academia.html#example-1-environmental-psychology-study",
+    "href": "academia.html#example-1-environmental-psychology-study",
+    "title": "Use In Academia",
+    "section": "Example 1: Environmental Psychology Study",
+    "text": "Example 1: Environmental Psychology Study\nVision\nAdvance understanding of the gap between environmental attitudes and behaviors to inform interventions that promote sustainable action.\nPartnership\nSupport a collaborative research process that aligns methodological rigor with the goals of the research team and contributes to publishable work.\nImpact\nProvide evidence on the relationship between environmental concern and actual behavior, contributing to literature on cognitive dissonance and sustainability.\nEvidence To Impact Strategy\nUse regression modeling and survey data analysis to estimate associations between attitudes and behaviors, with careful attention to measurement validity and confounding variables.\nImpact Narrative\nThe study found a measurable gap between reported concern and actual behavior, consistent with prior literature. The results contributed to a deeper understanding of cognitive dissonance in environmental contexts and informed future research on behavioral interventions."
+  },
+  {
+    "objectID": "academia.html#example-2-clinical-research-collaboration",
+    "href": "academia.html#example-2-clinical-research-collaboration",
+    "title": "Use In Academia",
+    "section": "Example 2: Clinical Research Collaboration",
+    "text": "Example 2: Clinical Research Collaboration\nVision\nImprove patient outcomes by strengthening the evidence base for treatment effectiveness.\nPartnership\nFoster a transparent and rigorous collaboration between statisticians and clinical researchers to support high-quality, publishable research.\nImpact\nEstimate the effectiveness of a treatment while accounting for confounding factors, contributing to clinical decision-making and medical knowledge.\nEvidence To Impact Strategy\nApply causal inference methods (e.g., propensity score matching or regression adjustment) to observational data, ensuring assumptions are clearly stated and evaluated.\nImpact Narrative\nThe analysis provided evidence supporting the effectiveness of the treatment, while also highlighting important limitations due to observational data. The findings contributed to a peer-reviewed publication and informed future study design and clinical investigation."
+  }
+]

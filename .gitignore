@@ -3,9 +3,7 @@
 .RData
 .Ruserdata
 /.quarto/
-/_site/
 .DS_Store
 .positai
-/tmp/
 
 **/*.quarto_ipynb
