@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+<div class="page-shell page-content">
+
+# About Design For Impact
+
+<p class="lede">Design For Impact is a collaborative scaffold for helping statistical collaborators maximize and communicate the value of their work.</p>
+
+---
+
+## The project
+
+The project brings alignment, intentionality, and translation into the everyday conversations that shape evidence-based work. More about its development, evaluation, and research foundations will be shared here in a future release.
+
+</div>

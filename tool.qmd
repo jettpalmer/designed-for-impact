@@ -1,0 +1,27 @@
+---
+title: "The Tool"
+---
+
+<div class="page-shell page-content">
+
+# The Tool
+
+<p class="lede">Design For Impact gives collaborators a structured place to connect project context, analytical choices, and decision-ready communication.</p>
+
+---
+
+## Tool + Guide
+
+The combined Tool + Guide brings the worksheet and its practical prompts together in one downloadable resource.
+
+<a class="button button-primary" href="files/design-for-impact-tool-and-guide.pdf" download>Download the Tool + Guide</a>
+
+## Implementation guidance
+
+Use the tool before kickoff to prepare thoughtful questions, return to it as project constraints change, and use it to shape a closeout narrative that is meaningful to the people making decisions.
+
+## Instructor resources {#instructor-resources}
+
+Instructor resources will be available here in a future release. They will support teaching the connection between statistical choices, collaboration, and the communication of evidence.
+
+</div>

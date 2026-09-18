@@ -1,119 +1,314 @@
 ---
-title: "Designed For Impact"
-subtitle: "A Collaborative Scaffolding Tool For Translating Evidence Into Action."
-pagetitle: "Home"
+title: "Design For Impact"
+pagetitle: "Design For Impact"
 ---
 
-## Welcome
+<section class="hero" aria-labelledby="hero-heading">
 
-The Designed for Impact Tool (DIT) is a **fillable**, **collaborative worksheet** that helps statisticians and domain experts plan for real-world impact from the start of a project.
+:::::: {.page-shell .hero-grid}
+:::: hero-copy
+<h1 id="hero-heading">
 
-It guides teams to:
+Design For Impact
 
-- Align on goals and expectations
-- Define a clear, decision-focused intended impact
-- Connect analysis choices to that impact
-- Communicate results in a way that supports action
+</h1>
 
-The tool is designed to structure conversations that shape both the analysis and how its results are used.
+<p class="hero-intro">
 
-## Why This Matters
+A collaborative scaffold for maximizing and communicating impact in statistical collaboration.
 
-As data science becomes increasingly automated, the value of a statistician is shifting.
+</p>
 
-It’s no longer just about:
+::: {.hero-actions aria-label="Primary actions"}
+<a class="button button-primary" href="files/design-for-impact-tool-and-guide.pdf" download>Download the Tool + Guide</a> <a class="button button-secondary" href="#workflow">Learn More</a>
+:::
+::::
 
-- Running models
-- Interpreting results
+<figure class="tool-preview">
 
-It’s about:
-
-- Asking the right questions
-- Guiding stakeholder decisions
-- Delivering impact that matters
-
-This tool helps bridge the **knowledge gap** between statistical collaborator and domain expert, moving statisticians from analysts to **co-creators of impact**.
-
-![](images/clipboard-3380446436.png)
-
-## The Tool
-
-The **Designed for Impact Tool (DIT)** is a one-page instrument that helps teams define:
-
-- **Vision** – What broader goal does this work contribute to?
-- **Partnership** – What makes this collaboration successful?
-- **Impact** – What decision or action should this work enable?
-- **Analysis Pathway** – What methodological choices are needed to support that impact?
-- **Narrative** – How will results be communicated to drive action?
-
-![](images/clipboard-2332871369.png)
-
-## Download the Tool
-
-::::: columns
-::: {.column width="50%"}
-### Blank Template
-
-[View Blank Template](template-pdf.qmd){.btn .btn-primary}
+::: tool-preview-frame
+<img src="images/tool-preview.png" alt="Preview of the blank Design For Impact worksheet, with fields for vision, partnership, impact, analysis pathway, and narrative."/>
 :::
 
-::: {.column width="50%"}
-### How-To Guide
+<figcaption>A shared workspace for the conversations that shape a project.</figcaption>
 
-[View How-To Guide](guide-pdf.qmd){.btn .btn-primary}
+</figure>
+::::::
+
+</section>
+
+<section class="impact-statement" aria-labelledby="impact-heading">
+
+::: page-shell
+<h2 id="impact-heading">
+
+Impact doesn’t happen automatically—it requires alignment, intentionality, and translation.
+
+</h2>
+:::
+
+</section>
+
+<section class="section workflow-section" id="workflow" aria-labelledby="workflow-heading">
+
+:::::: page-shell
+::: section-intro
+<h2 id="workflow-heading">
+
+From evidence to action.
+
+</h2>
+
+<p>Design For Impact builds on the Q<sub>1</sub>Q<sub>2</sub>Q<sub>3</sub> framework developed by Vance and colleagues, which moves from qualitative context gathering, through quantitative analysis, to qualitative interpretation.</p>
+:::
+
+<ol class="workflow-flow" aria-label="Q1, Q2, Q3 workflow">
+
+<li>
+
+<p class="workflow-code">
+
+Q<sub>1</sub>
+
+</p>
+
+<p class="workflow-type">
+
+Qualitative
+
+</p>
+
+<h3>Alignment</h3>
+
+</li>
+
+<li class="flow-arrow" aria-hidden="true">
+
+→
+
+</li>
+
+<li>
+
+<p class="workflow-code">
+
+Q<sub>2</sub>
+
+</p>
+
+<p class="workflow-type">
+
+Quantitative
+
+</p>
+
+<h3>Intentionality</h3>
+
+</li>
+
+<li class="flow-arrow" aria-hidden="true">
+
+→
+
+</li>
+
+<li>
+
+<p class="workflow-code">
+
+Q<sub>3</sub>
+
+</p>
+
+<p class="workflow-type">
+
+Qualitative
+
+</p>
+
+<h3>Translation</h3>
+
+</li>
+
+</ol>
+
+::: workflow-notes
+<article>
+
+<h3>Alignment</h3>
+
+<p>Establish the project’s broader vision, intended impact, and expectations for the partnership.</p>
+
+</article>
+
+<article>
+
+<h3>Intentionality</h3>
+
+<p>Choose the design, dataset, analytical approach, and communication products that enable the intended impact.</p>
+
+</article>
+
+<article>
+
+<h3>Translation</h3>
+
+<p>Develop an audience-specific, evidence-based narrative connecting the findings to the stakeholders, decisions, or actions identified in Q<sub>1</sub>.</p>
+
+</article>
+:::
+
+::: section-close
+<p>The tool turns these principles into five practical components.</p>
+
+<a class="text-action" href="tool.qmd">Explore the Tool [→]{aria-hidden="true"}</a>
+:::
+::::::
+
+</section>
+
+<section class="section implementation-section" aria-labelledby="implementation-heading">
+
+:::: page-shell
+::: {.section-intro .split-heading}
+<h2 id="implementation-heading">
+
+A scaffold, not a script.
+
+</h2>
+
+<p>Use the tool as a shared document between you and your collaborator, or adapt it to your needs.</p>
+:::
+
+<ol class="lifecycle">
+
+<li>
+
+<h3>Prepare</h3>
+
+<p>Review the guide and develop questions before kickoff.</p>
+
+</li>
+
+<li>
+
+<h3>Align</h3>
+
+<p>Establish Q<sub>1</sub> with collaborators and confirm shared understanding.</p>
+
+</li>
+
+<li>
+
+<h3>Analyze</h3>
+
+<p>Develop Q<sub>2</sub> and revisit it as evidence or constraints change.</p>
+
+</li>
+
+<li>
+
+<h3>Translate</h3>
+
+<p>Use Q<sub>3</sub> to shape decision-ready closeout communication.</p>
+
+</li>
+
+</ol>
+
+<a class="text-action" href="tool.qmd">See Implementation Guidance [→]{aria-hidden="true"}</a>
+::::
+
+</section>
+
+<section class="section examples-section" aria-labelledby="examples-heading">
+
+::::: page-shell
+::: section-intro
+<h2 id="examples-heading">
+
+See Design For Impact in action.
+
+</h2>
+
+<p>Explore two fictitious collaborations showing how Design For Impact adapts across professional and academic settings.</p>
+:::
+
+::: example-previews
+<article>
+
+<h3>Marketing Campaign Optimization</h3>
+
+<p>Connecting customer-segmentation analysis to budget allocation, campaign planning, and conversion.</p>
+
+<a class="text-action" href="examples.qmd">View Example [→]{aria-hidden="true"}</a>
+
+</article>
+
+<article>
+
+<h3>Environmental Attitudes and Behavior</h3>
+
+<p>Using complex findings to guide future research and the design of behavioral interventions.</p>
+
+<a class="text-action" href="examples.qmd">View Example [→]{aria-hidden="true"}</a>
+
+</article>
 :::
 :::::
 
-The how-to guide provides a **one-sentence description** for each dimension and **1-2 key questions** that statistical collaborators can pose to domain experts.
+</section>
 
-> Last Updated: April 22, 2026 (v6.0)
+<section class="section resource-section" aria-labelledby="resources-heading">
 
-------------------------------------------------------------------------
+::::: page-shell
+::: section-intro
+<h2 id="resources-heading">
 
-## Explore Use Cases
+Resources for applying and teaching Design For Impact.
 
-The DIT can be adapted across different collaborative settings.
-
-::::: columns
-::: {.column width="50%"}
-### Use In Industry
-
-[Use In Industry](industry.qmd){.btn .btn-primary}
+</h2>
 :::
 
-::: {.column width="50%"}
-### Use In Academia
+::: resource-split
+<article>
 
-[Use In Academia](academia.qmd){.btn .btn-primary}
+<h3>For practitioners</h3>
+
+<p>Integrate Design For Impact into scoping conversations, project check-ins, analysis planning, and closeout without replacing your existing workflow.</p>
+
+<a class="text-action" href="tool.qmd">Use the Tool [→]{aria-hidden="true"}</a>
+
+</article>
+
+<article>
+
+<h3>For instructors</h3>
+
+<p>Help students connect statistical decisions to collaboration, stakeholder needs, and the communication of evidence.</p>
+
+<a class="text-action" href="tool.qmd#instructor-resources">Explore Instructor Resources [→]{aria-hidden="true"}</a>
+
+</article>
 :::
 :::::
 
-------------------------------------------------------------------------
+</section>
 
-## About This Project
+<section class="section evaluation-section" aria-labelledby="evaluation-heading">
 
-This website accompanies a master’s thesis focused on improving **statistical collaboration and impact**.
+:::: {.page-shell .evaluation-layout}
+::: {}
+<h2 id="evaluation-heading">
 
-The project:
+Evaluated by students and practitioners.
 
-- Extends the QQQ and ASCCR frameworks
-- Introduces structured impact planning conversations to the statistics and data science collaborative workflow
-- Develops and validates a practical consulting tool
+</h2>
 
-------------------------------------------------------------------------
+<p>Design For Impact was refined using feedback from students and practitioners from industry and academia.</p>
+:::
 
-## Get Involved
+<a class="text-action" href="about.qmd">About the Project [→]{aria-hidden="true"}</a>
+::::
 
-If you are:
-
-- A statistician
-- A data scientist
-- A consultant
-- A researcher
-- A student
-
-I’d love your feedback.
-
-Feel free to [reach out](mailto:jpalme20@calpoly.edu) or use the tool in your own work.
-
-Learn more about me at my [personal website](https://jettpalmer.github.io).
+</section>

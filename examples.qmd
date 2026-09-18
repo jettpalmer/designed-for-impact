@@ -1,0 +1,21 @@
+---
+title: "Examples"
+---
+
+<div class="page-shell page-content">
+
+# Examples
+
+<p class="lede">Illustrative collaborations will show how Design For Impact adapts to distinct professional and academic settings.</p>
+
+---
+
+## Marketing Campaign Optimization
+
+This forthcoming example connects customer-segmentation analysis to budget allocation, campaign planning, and conversion.
+
+## Environmental Attitudes and Behavior
+
+This forthcoming example uses complex findings to guide future research and the design of behavioral interventions.
+
+</div>
